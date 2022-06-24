@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/07f36674e050769a09c0b97dd14b8acb73c04f7a1ee9f0b1c1f052ebcb116554.png",
     "dna": "07f36674e050769a09c0b97dd14b8acb73c04f7a1ee9f0b1c1f052ebcb116554",
     "name": "Ayato Kitabatake",
-    "id": 1610
+    "id": 1610,
+    "external_url": "https://waifufaucet.com/waifu/07f36674e050769a09c0b97dd14b8acb73c04f7a1ee9f0b1c1f052ebcb116554",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that honesty is a high ideal"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incurious and never seeks out knowledge or information to satisfy herself"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Seeks out exciting and adventurous situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely unmoved by art or the beauty of nature"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An amazing memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great affinity for language"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

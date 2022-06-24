@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/9d0ee2f19a1f59f9a9cf0fcadb853b8c52f073ff98c35489dffa0aad6e0244d4.png",
     "dna": "9d0ee2f19a1f59f9a9cf0fcadb853b8c52f073ff98c35489dffa0aad6e0244d4",
     "name": "Yumika Takaoka",
-    "id": 2229
+    "id": 2229,
+    "external_url": "https://waifufaucet.com/waifu/9d0ee2f19a1f59f9a9cf0fcadb853b8c52f073ff98c35489dffa0aad6e0244d4",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that the entire concept of sacrifice for others is truly disgusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

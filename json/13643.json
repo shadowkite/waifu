@@ -2,5 +2,48 @@
     "image": "https://icons.waifufaucet.com/original/b08b75597820d46100fc666fe3367142f99d6319e195d7f25462f4ddd539b88c.png",
     "dna": "b08b75597820d46100fc666fe3367142f99d6319e195d7f25462f4ddd539b88c",
     "name": "Sana Jinnai",
-    "id": 13643
+    "id": 13643,
+    "external_url": "https://waifufaucet.com/waifu/b08b75597820d46100fc666fe3367142f99d6319e195d7f25462f4ddd539b88c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never acts without prolonged deliberation, even to her own detriment and the harm of those around her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iron will"
+        }
+    ]
 }

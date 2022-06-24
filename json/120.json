@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/57445ec4fd33e2ac4374525b5e6c55ed6cb2a5562ab8a34c640024dd72608cf3.png",
     "dna": "57445ec4fd33e2ac4374525b5e6c55ed6cb2a5562ab8a34c640024dd72608cf3",
     "name": "Irei Shirane",
-    "id": 120
+    "id": 120,
+    "external_url": "https://waifufaucet.com/waifu/57445ec4fd33e2ac4374525b5e6c55ed6cb2a5562ab8a34c640024dd72608cf3",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has abandoned any attempt at self-control and finds the whole concept deeply offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite durable"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        }
+    ]
 }

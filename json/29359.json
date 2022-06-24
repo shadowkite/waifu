@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/7cf1bb73d60fe8a376caa4ea179d49065ea0bc9a417449a542c99b8ac6eb20ce.png",
     "dna": "7cf1bb73d60fe8a376caa4ea179d49065ea0bc9a417449a542c99b8ac6eb20ce",
     "name": "Kairi Mitsukuri",
-    "id": 29359
+    "id": 29359,
+    "external_url": "https://waifufaucet.com/waifu/7cf1bb73d60fe8a376caa4ea179d49065ea0bc9a417449a542c99b8ac6eb20ce",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the whole idea of friendship disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is impervious to the effects of stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a coward, completely overwhelmed by fear when confronted with danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Extremely agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        }
+    ]
 }

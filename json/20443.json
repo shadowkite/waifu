@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/13980d8824e22d2024120c0da67a264f4556230dd1102132f495fc068e79eab1.png",
     "dna": "13980d8824e22d2024120c0da67a264f4556230dd1102132f495fc068e79eab1",
     "name": "Shinon Gushiken",
-    "id": 20443
+    "id": 20443,
+    "external_url": "https://waifufaucet.com/waifu/13980d8824e22d2024120c0da67a264f4556230dd1102132f495fc068e79eab1",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply values introspection"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to strong feelings of lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural ability with music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

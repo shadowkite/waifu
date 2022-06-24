@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/7a33721e0cb95c2b5305f7751e3c4161440d572bb78eb1e38aa22e2e6bcd614f.png",
     "dna": "7a33721e0cb95c2b5305f7751e3c4161440d572bb78eb1e38aa22e2e6bcd614f",
     "name": "Kiyoho Oosawa",
-    "id": 14267
+    "id": 14267,
+    "external_url": "https://waifufaucet.com/waifu/7a33721e0cb95c2b5305f7751e3c4161440d572bb78eb1e38aa22e2e6bcd614f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never becomes angry"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Drops any activity at the slightest hint of difficulty or even the suggestion of effort being required"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does everything in her power to avoid excitement and stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        }
+    ]
 }

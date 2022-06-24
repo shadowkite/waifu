@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/38f71b15ec4d663404f7884eee5a8947adfb375dfc7fee99b6b0d76ab006c957.png",
     "dna": "38f71b15ec4d663404f7884eee5a8947adfb375dfc7fee99b6b0d76ab006c957",
     "name": "Reira Ihara",
-    "id": 17804
+    "id": 17804,
+    "external_url": "https://waifufaucet.com/waifu/38f71b15ec4d663404f7884eee5a8947adfb375dfc7fee99b6b0d76ab006c957",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those that take leisure time are evil and finds the whole idea disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the attainment and preservation of knowledge as an offensive enterprise engaged in by arrogant fools"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never the slightest bit cheerful about anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Really poor focus"
+        }
+    ]
 }

@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/b431dd38b0ef4fbf9f4d6acc7bccfbb671f85ac43afe143f2df0e32ef61a1678.png",
     "dna": "b431dd38b0ef4fbf9f4d6acc7bccfbb671f85ac43afe143f2df0e32ef61a1678",
     "name": "Mao Tadeshi",
-    "id": 20516
+    "id": 20516,
+    "external_url": "https://waifufaucet.com/waifu/b431dd38b0ef4fbf9f4d6acc7bccfbb671f85ac43afe143f2df0e32ef61a1678",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that artful speech and eloquent expression are of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the proposition that one should work hard in life utterly abhorrent"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Treasures leisure time and thinks it is very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would be deeply satisfied if everyone could live as one in complete harmony"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Seeks out exciting and adventurous situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural inclination toward language"
+        }
+    ]
 }

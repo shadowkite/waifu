@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/5bc8cfdb1482562827d66ee88bc4ff0c23ee75540d4779b1d8687c4305cdc23e.png",
     "dna": "5bc8cfdb1482562827d66ee88bc4ff0c23ee75540d4779b1d8687c4305cdc23e",
     "name": "Aiyu Morioka",
-    "id": 4295
+    "id": 4295,
+    "external_url": "https://waifufaucet.com/waifu/5bc8cfdb1482562827d66ee88bc4ff0c23ee75540d4779b1d8687c4305cdc23e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels hatred toward anyone or anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never becomes angry"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Unerringly returns favors and has a profound sense of gratitude for the kind actions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        }
+    ]
 }

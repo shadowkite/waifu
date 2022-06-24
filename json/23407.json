@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/339364b2c6bcddf3844b4d219a42a9638f9906eb914ae1679d8ca809992339ab.png",
     "dna": "339364b2c6bcddf3844b4d219a42a9638f9906eb914ae1679d8ca809992339ab",
     "name": "Kano Ihara",
-    "id": 23407
+    "id": 23407,
+    "external_url": "https://waifufaucet.com/waifu/339364b2c6bcddf3844b4d219a42a9638f9906eb914ae1679d8ca809992339ab",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very curious, sometimes to her detriment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a perfectionist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sharp intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

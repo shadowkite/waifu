@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/749b6f4cbd83eb61b2c5fe2e37906a01f27c8305f4d3fc06f1215b4ff540e9ca.png",
     "dna": "749b6f4cbd83eb61b2c5fe2e37906a01f27c8305f4d3fc06f1215b4ff540e9ca",
     "name": "Motoi Nishino",
-    "id": 16577
+    "id": 16577,
+    "external_url": "https://waifufaucet.com/waifu/749b6f4cbd83eb61b2c5fe2e37906a01f27c8305f4d3fc06f1215b4ff540e9ca",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for worthy craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that martial prowess defines the good character of an individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        }
+    ]
 }

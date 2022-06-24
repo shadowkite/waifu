@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/7174a6ab78b2b19d4ac2b53782457ff33e4b0a6837e0e96d6448df500ab00506.png",
     "dna": "7174a6ab78b2b19d4ac2b53782457ff33e4b0a6837e0e96d6448df500ab00506",
     "name": "Atsue Shimura",
-    "id": 2498
+    "id": 2498,
+    "external_url": "https://waifufaucet.com/waifu/7174a6ab78b2b19d4ac2b53782457ff33e4b0a6837e0e96d6448df500ab00506",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to strong feelings of lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is impervious to the effects of stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would never pass up a chance for a good fistfight"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shockingly fragile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Possessed of amazing recuperative powers"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor memory"
+        }
+    ]
 }

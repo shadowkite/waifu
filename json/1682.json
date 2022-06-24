@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/025659a297286e85bc399b32b4c6e2f54aca430d5db9272361129d50258a02b8.png",
     "dna": "025659a297286e85bc399b32b4c6e2f54aca430d5db9272361129d50258a02b8",
     "name": "Etsuho Horiuchi",
-    "id": 1682
+    "id": 1682,
+    "external_url": "https://waifufaucet.com/waifu/025659a297286e85bc399b32b4c6e2f54aca430d5db9272361129d50258a02b8",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks it is of the utmost importance to present a bold face and never grouse, complain or even show emotion"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds the view that commerce is a vile obscenity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        }
+    ]
 }

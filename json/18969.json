@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/5f43898cc5fbb49718bbf65d3c20e2568dc7f5f5f0d6c6966383370f74811a39.png",
     "dna": "5f43898cc5fbb49718bbf65d3c20e2568dc7f5f5f0d6c6966383370f74811a39",
     "name": "Nanaki Sugawara",
-    "id": 18969
+    "id": 18969,
+    "external_url": "https://waifufaucet.com/waifu/5f43898cc5fbb49718bbf65d3c20e2568dc7f5f5f0d6c6966383370f74811a39",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees those that attempt to maintain dignified and proper behavior as vain and offensive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

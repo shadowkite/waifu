@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/a515eaf1a61e56eef38ea6736d04b34f80668510d4324d8c26986c168588323d.png",
     "dna": "a515eaf1a61e56eef38ea6736d04b34f80668510d4324d8c26986c168588323d",
     "name": "Hatsune Shimohira",
-    "id": 24190
+    "id": 24190,
+    "external_url": "https://waifufaucet.com/waifu/a515eaf1a61e56eef38ea6736d04b34f80668510d4324d8c26986c168588323d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the whole idea of taking time to master a skill as appalling"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an incredibly calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Really poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very little patience"
+        }
+    ]
 }

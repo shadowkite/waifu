@@ -2,5 +2,56 @@
     "image": "https://icons.waifufaucet.com/original/c46d3debe55a099ddd1c473a6f7ffe1f137e663844751e8f2721e28641b0d1a2.png",
     "dna": "c46d3debe55a099ddd1c473a6f7ffe1f137e663844751e8f2721e28641b0d1a2",
     "name": "Namiko Ienari",
-    "id": 14816
+    "id": 14816,
+    "external_url": "https://waifufaucet.com/waifu/c46d3debe55a099ddd1c473a6f7ffe1f137e663844751e8f2721e28641b0d1a2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for worthy craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very easily falls into love and develops positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never moved by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

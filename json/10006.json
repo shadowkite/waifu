@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/e104af74a61c7fc5c1e968eb293bf283acd23431648fd8ab6fed214eff2785fb.png",
     "dna": "e104af74a61c7fc5c1e968eb293bf283acd23431648fd8ab6fed214eff2785fb",
     "name": "Sakuro Sakagami",
-    "id": 10006
+    "id": 10006,
+    "external_url": "https://waifufaucet.com/waifu/e104af74a61c7fc5c1e968eb293bf283acd23431648fd8ab6fed214eff2785fb",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the creation and appreciation of artwork is one of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        }
+    ]
 }

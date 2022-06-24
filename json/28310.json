@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/49004f4cae6e634556064d0c60339f177d3d65f2d2e4cb388c0caee7830d53cf.png",
     "dna": "49004f4cae6e634556064d0c60339f177d3d65f2d2e4cb388c0caee7830d53cf",
     "name": "Yudzuki Osaragi",
-    "id": 28310
+    "id": 28310,
+    "external_url": "https://waifufaucet.com/waifu/49004f4cae6e634556064d0c60339f177d3d65f2d2e4cb388c0caee7830d53cf",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has great respect for fairness"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        }
+    ]
 }

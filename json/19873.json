@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/6caecd15cc8445ab87bdcfba3a7b0fd9ea16f910997cc08d211e2934d3a5c61b.png",
     "dna": "6caecd15cc8445ab87bdcfba3a7b0fd9ea16f910997cc08d211e2934d3a5c61b",
     "name": "Hisui Ippitsusai",
-    "id": 19873
+    "id": 19873,
+    "external_url": "https://waifufaucet.com/waifu/6caecd15cc8445ab87bdcfba3a7b0fd9ea16f910997cc08d211e2934d3a5c61b",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

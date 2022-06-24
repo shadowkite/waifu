@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/6e2e7c1ad4b46da93bd9b68526cbeb07d88303b37f13dcf2cc041fde1e22f241.png",
     "dna": "6e2e7c1ad4b46da93bd9b68526cbeb07d88303b37f13dcf2cc041fde1e22f241",
     "name": "Shizuna Ichimonji",
-    "id": 13106
+    "id": 13106,
+    "external_url": "https://waifufaucet.com/waifu/6e2e7c1ad4b46da93bd9b68526cbeb07d88303b37f13dcf2cc041fde1e22f241",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by tradition and would flout any she encounters if given a chance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        }
+    ]
 }

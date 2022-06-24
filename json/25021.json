@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/c69ffcd4c7a9ed62d30ba2a7596fc8c027d376b3291d79fadc0d567eda3cd38c.png",
     "dna": "c69ffcd4c7a9ed62d30ba2a7596fc8c027d376b3291d79fadc0d567eda3cd38c",
     "name": "Riho Ishidzuka",
-    "id": 25021
+    "id": 25021,
+    "external_url": "https://waifufaucet.com/waifu/c69ffcd4c7a9ed62d30ba2a7596fc8c027d376b3291d79fadc0d567eda3cd38c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        }
+    ]
 }

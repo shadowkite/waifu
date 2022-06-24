@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/78b5d4d9762d443638c1844c9c26ab39f5663a69977f57c5e746dfd16b43fddb.png",
     "dna": "78b5d4d9762d443638c1844c9c26ab39f5663a69977f57c5e746dfd16b43fddb",
     "name": "Asahi Kurkawa",
-    "id": 3296
+    "id": 3296,
+    "external_url": "https://waifufaucet.com/waifu/78b5d4d9762d443638c1844c9c26ab39f5663a69977f57c5e746dfd16b43fddb",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Hates those who wield power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views decorum as a high ideal and is deeply offended by those that fail to maintain it"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not have feelings of emotional attachment and has never felt even a moment's connection with another being"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is concerned only with matters practical to the situation at hand, with absolutely no inclination toward abstract discussion"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        }
+    ]
 }

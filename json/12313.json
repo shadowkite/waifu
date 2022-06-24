@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/93c5df5a0d33bf8eb8a4f1fa9c95da2369aeff75f2e7af3cfd6271763ed15959.png",
     "dna": "93c5df5a0d33bf8eb8a4f1fa9c95da2369aeff75f2e7af3cfd6271763ed15959",
     "name": "Shizuri Ohira",
-    "id": 12313
+    "id": 12313,
+    "external_url": "https://waifufaucet.com/waifu/93c5df5a0d33bf8eb8a4f1fa9c95da2369aeff75f2e7af3cfd6271763ed15959",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incredibly brave in the face of looming danger, perhaps a bit foolhardy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Could not care less about her appearance, talents or other personal vanities"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Great analytical abilities"
+        }
+    ]
 }

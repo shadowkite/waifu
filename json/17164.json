@@ -2,5 +2,56 @@
     "image": "https://icons.waifufaucet.com/original/47e044d42a2ec2dbf088c83f7740b3fdece18fe91ef8d33899f1cdf16e4b9763.png",
     "dna": "47e044d42a2ec2dbf088c83f7740b3fdece18fe91ef8d33899f1cdf16e4b9763",
     "name": "Seki Tamuro",
-    "id": 17164
+    "id": 17164,
+    "external_url": "https://waifufaucet.com/waifu/47e044d42a2ec2dbf088c83f7740b3fdece18fe91ef8d33899f1cdf16e4b9763",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very single-minded"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Eschews practical concerns for philosophical discussion, puzzles, riddles and the world of ideas"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

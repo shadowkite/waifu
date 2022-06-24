@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/5579ec4ecec1ab5a84c2947e35343cfe120b6e1fd9b2ebbc2a13e6a0cc58ef8e.png",
     "dna": "5579ec4ecec1ab5a84c2947e35343cfe120b6e1fd9b2ebbc2a13e6a0cc58ef8e",
     "name": "Wakano Minobe",
-    "id": 10062
+    "id": 10062,
+    "external_url": "https://waifufaucet.com/waifu/5579ec4ecec1ab5a84c2947e35343cfe120b6e1fd9b2ebbc2a13e6a0cc58ef8e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees lying as an important means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the quest for knowledge to be of the very highest value"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Eschews practical concerns for philosophical discussion, puzzles, riddles and the world of ideas"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Incredibly quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        }
+    ]
 }

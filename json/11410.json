@@ -2,5 +2,56 @@
     "image": "https://icons.waifufaucet.com/original/d0be6d905d339714279b80dbb07b6f0f2fc5a174ad0de85b1ccccafea010db40.png",
     "dna": "d0be6d905d339714279b80dbb07b6f0f2fc5a174ad0de85b1ccccafea010db40",
     "name": "Aiki Higuchi",
-    "id": 11410
+    "id": 11410,
+    "external_url": "https://waifufaucet.com/waifu/d0be6d905d339714279b80dbb07b6f0f2fc5a174ad0de85b1ccccafea010db40",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to hatreds and often develops negative feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        }
+    ]
 }

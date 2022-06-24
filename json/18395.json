@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/00df640bf0d9e3de474d7eb2f0ae257cc8ef8f69d7f7992b1a674ed320cdf237.png",
     "dna": "00df640bf0d9e3de474d7eb2f0ae257cc8ef8f69d7f7992b1a674ed320cdf237",
     "name": "Mahiro Kawasawa",
-    "id": 18395
+    "id": 18395,
+    "external_url": "https://waifufaucet.com/waifu/00df640bf0d9e3de474d7eb2f0ae257cc8ef8f69d7f7992b1a674ed320cdf237",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that self-mastery and the denial of impulses are of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds craftsmanship to be of the highest ideals and celebrates talented artisans and their masterworks"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A stunning lack of analytical ability"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

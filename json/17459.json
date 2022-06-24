@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/70242bdbde4381a5dc2cab5b957c2d3bed6b9d4d72384b63386597279aed9c2c.png",
     "dna": "70242bdbde4381a5dc2cab5b957c2d3bed6b9d4d72384b63386597279aed9c2c",
     "name": "Kirari Sakagami",
-    "id": 17459
+    "id": 17459,
+    "external_url": "https://waifufaucet.com/waifu/70242bdbde4381a5dc2cab5b957c2d3bed6b9d4d72384b63386597279aed9c2c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the acquisition of power over others is the ideal goal in life and worthy of the highest respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Really respects those that take the time to master a skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply dislikes competition"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incredibly brave in the face of looming danger, perhaps a bit foolhardy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Almost never sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iron will"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An unbelievably atrocious sense of the position of her own body"
+        }
+    ]
 }

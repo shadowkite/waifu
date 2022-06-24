@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/ce935bec05c0f3638e302b771dbe4c117283e602d74697a5c41e9f0a175f287a.png",
     "dna": "ce935bec05c0f3638e302b771dbe4c117283e602d74697a5c41e9f0a175f287a",
     "name": "Sakuko Muro",
-    "id": 26512
+    "id": 26512,
+    "external_url": "https://waifufaucet.com/waifu/ce935bec05c0f3638e302b771dbe4c117283e602d74697a5c41e9f0a175f287a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects individuals that persevere through their trials and labors"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great musical sense"
+        }
+    ]
 }

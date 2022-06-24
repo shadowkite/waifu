@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/6b1adc52945374a6beaff5fe27a0afbd0b488e8d03fca5d2200e31e5e29a1647.png",
     "dna": "6b1adc52945374a6beaff5fe27a0afbd0b488e8d03fca5d2200e31e5e29a1647",
     "name": "Sumina Shimazu",
-    "id": 10211
+    "id": 10211,
+    "external_url": "https://waifufaucet.com/waifu/6b1adc52945374a6beaff5fe27a0afbd0b488e8d03fca5d2200e31e5e29a1647",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is impervious to the effects of stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a complete scatterbrain, unable to focus on a single matter for more than a passing moment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": ""
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        }
+    ]
 }

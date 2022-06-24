@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/6b7456414d4c6ca49d9986b737af98c1b1623ae7246f78e0a57d55fbff79ecef.png",
     "dna": "6b7456414d4c6ca49d9986b737af98c1b1623ae7246f78e0a57d55fbff79ecef",
     "name": "Tokiri Ogata",
-    "id": 22066
+    "id": 22066,
+    "external_url": "https://waifufaucet.com/waifu/6b7456414d4c6ca49d9986b737af98c1b1623ae7246f78e0a57d55fbff79ecef",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural ability with music"
+        }
+    ]
 }

@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/2d4e8a7a7375d7129d616e41338e1e4d21de3b13ed01a8c2e75fa09442bffe2f.png",
     "dna": "2d4e8a7a7375d7129d616e41338e1e4d21de3b13ed01a8c2e75fa09442bffe2f",
     "name": "Utako Miyashita",
-    "id": 20842
+    "id": 20842,
+    "external_url": "https://waifufaucet.com/waifu/2d4e8a7a7375d7129d616e41338e1e4d21de3b13ed01a8c2e75fa09442bffe2f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds moderation and self-control to be very important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Unerringly returns favors and has a profound sense of gratitude for the kind actions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad intuition"
+        }
+    ]
 }

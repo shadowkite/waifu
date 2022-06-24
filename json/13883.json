@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/40489416954d0bb7c24dd0121f00cc230f3eaf73b882bba46bcf54d6a8bce12c.png",
     "dna": "40489416954d0bb7c24dd0121f00cc230f3eaf73b882bba46bcf54d6a8bce12c",
     "name": "Yusuke Kawagichi",
-    "id": 13883
+    "id": 13883,
+    "external_url": "https://waifufaucet.com/waifu/40489416954d0bb7c24dd0121f00cc230f3eaf73b882bba46bcf54d6a8bce12c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds shrewd and crafty individuals in the lowest esteem"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the whole pursuit of art as silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural inclination toward language"
+        }
+    ]
 }

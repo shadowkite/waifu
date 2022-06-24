@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/c6dd03d7ab478c7787188dd0537afee2e11aee6ca8d8cd5d21986f5c910bb770.png",
     "dna": "c6dd03d7ab478c7787188dd0537afee2e11aee6ca8d8cd5d21986f5c910bb770",
     "name": "Sasa Koguchi",
-    "id": 26202
+    "id": 26202,
+    "external_url": "https://waifufaucet.com/waifu/c6dd03d7ab478c7787188dd0537afee2e11aee6ca8d8cd5d21986f5c910bb770",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite a bold flatterer, extremely friendly but just a little insufferable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is swayed by emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

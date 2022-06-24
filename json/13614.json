@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/08bd3b31330ab16891e7701e4c7fa110321c13fe3e04c08a47e697d26adb938e.png",
     "dna": "08bd3b31330ab16891e7701e4c7fa110321c13fe3e04c08a47e697d26adb938e",
     "name": "Miaki Kate",
-    "id": 13614
+    "id": 13614,
+    "external_url": "https://waifufaucet.com/waifu/08bd3b31330ab16891e7701e4c7fa110321c13fe3e04c08a47e697d26adb938e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is intellectually stubborn, rarely changing her mind during a debate regardless of the merits"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Really slow to heal"
+        }
+    ]
 }

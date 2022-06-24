@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/c099d637dc5fefdf66ff22b2aa21b4e3d341412d1cd2282f5ba6905eed803d7b.png",
     "dna": "c099d637dc5fefdf66ff22b2aa21b4e3d341412d1cd2282f5ba6905eed803d7b",
     "name": "Yumeha Sahashi",
-    "id": 16547
+    "id": 16547,
+    "external_url": "https://waifufaucet.com/waifu/c099d637dc5fefdf66ff22b2aa21b4e3d341412d1cd2282f5ba6905eed803d7b",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep respect for animals, plants and the natural world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

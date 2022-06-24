@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/d31c8f826704ea32d3e4557c0e799aca3d61766840f6825032022cbc9e598d7e.png",
     "dna": "d31c8f826704ea32d3e4557c0e799aca3d61766840f6825032022cbc9e598d7e",
     "name": "Kaname Shibuya",
-    "id": 16419
+    "id": 16419,
+    "external_url": "https://waifufaucet.com/waifu/d31c8f826704ea32d3e4557c0e799aca3d61766840f6825032022cbc9e598d7e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that little is better in life than a good party"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that the pursuit of the skills of warfare and fighting is a low pursuit indeed"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks working hard is an abject idiocy"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely closed-minded and never changes her mind after forming an initial idea"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

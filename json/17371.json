@@ -2,5 +2,48 @@
     "image": "https://icons.waifufaucet.com/original/9e82a55997d16615209c783c62d456db331101ac2ce5a39de234f96b038f80ce.png",
     "dna": "9e82a55997d16615209c783c62d456db331101ac2ce5a39de234f96b038f80ce",
     "name": "Kazune Funaki",
-    "id": 17371
+    "id": 17371,
+    "external_url": "https://waifufaucet.com/waifu/9e82a55997d16615209c783c62d456db331101ac2ce5a39de234f96b038f80ce",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is extremely confident of herself in situations requiring her skills"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

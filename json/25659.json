@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/3f64a0d11f4ceebd2388f799b6e84f21e92aeae5fa74a7035d8e1e1f26caa1a8.png",
     "dna": "3f64a0d11f4ceebd2388f799b6e84f21e92aeae5fa74a7035d8e1e1f26caa1a8",
     "name": "Harui Tsutaya",
-    "id": 25659
+    "id": 25659,
+    "external_url": "https://waifufaucet.com/waifu/3f64a0d11f4ceebd2388f799b6e84f21e92aeae5fa74a7035d8e1e1f26caa1a8",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the time taken to master a skill is a horrible waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very curious, sometimes to her detriment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very strong"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A lack of understanding of social relationships"
+        }
+    ]
 }

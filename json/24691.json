@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/9e3c075082ee6140b47e37f4ee0d872942dc723361d664cd449718a90f6d5c2f.png",
     "dna": "9e3c075082ee6140b47e37f4ee0d872942dc723361d664cd449718a90f6d5c2f",
     "name": "Mai Ohmae",
-    "id": 24691
+    "id": 24691,
+    "external_url": "https://waifufaucet.com/waifu/9e3c075082ee6140b47e37f4ee0d872942dc723361d664cd449718a90f6d5c2f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that it would be a fine thing if all time were leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        }
+    ]
 }

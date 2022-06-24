@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/1133b3c4d38b4f1215790bd9a8b20cbd50fb439496e94196e8a132f75bfc8e22.png",
     "dna": "1133b3c4d38b4f1215790bd9a8b20cbd50fb439496e94196e8a132f75bfc8e22",
     "name": "Manako Kutsuna",
-    "id": 26114
+    "id": 26114,
+    "external_url": "https://waifufaucet.com/waifu/1133b3c4d38b4f1215790bd9a8b20cbd50fb439496e94196e8a132f75bfc8e22",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Really respects those that take the time to master a skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural ability with music"
+        }
+    ]
 }

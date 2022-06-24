@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/3363ac1e27b4a45edcfbce04993a76d65e22187cef4a70f7eeeddfc1da3ec940.png",
     "dna": "3363ac1e27b4a45edcfbce04993a76d65e22187cef4a70f7eeeddfc1da3ec940",
     "name": "Hinon Takei",
-    "id": 1084
+    "id": 1084,
+    "external_url": "https://waifufaucet.com/waifu/3363ac1e27b4a45edcfbce04993a76d65e22187cef4a70f7eeeddfc1da3ec940",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is impervious to the effects of stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a coward, completely overwhelmed by fear when confronted with danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels helping others is an imposition on her time"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

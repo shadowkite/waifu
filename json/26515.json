@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/88546f9acfc8f4c5056a1062601fefe48e30d26e967f94e03cfa73c1d0aa9fcd.png",
     "dna": "88546f9acfc8f4c5056a1062601fefe48e30d26e967f94e03cfa73c1d0aa9fcd",
     "name": "Shizu Ko",
-    "id": 26515
+    "id": 26515,
+    "external_url": "https://waifufaucet.com/waifu/88546f9acfc8f4c5056a1062601fefe48e30d26e967f94e03cfa73c1d0aa9fcd",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly prizes loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family greatly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little linguistic ability"
+        }
+    ]
 }

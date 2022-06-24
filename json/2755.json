@@ -2,5 +2,48 @@
     "image": "https://icons.waifufaucet.com/original/37213a941f41ac0a11bb9802a75b684874751a51af5dfc67a6048ba75742fa92.png",
     "dna": "37213a941f41ac0a11bb9802a75b684874751a51af5dfc67a6048ba75742fa92",
     "name": "Umeko Onoe",
-    "id": 2755
+    "id": 2755,
+    "external_url": "https://waifufaucet.com/waifu/37213a941f41ac0a11bb9802a75b684874751a51af5dfc67a6048ba75742fa92",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a complete scatterbrain, unable to focus on a single matter for more than a passing moment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

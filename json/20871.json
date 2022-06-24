@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/cb03fd33864a2a313df1686c6e26d9e13fdab87215950ebfca9f4006ba18c645.png",
     "dna": "cb03fd33864a2a313df1686c6e26d9e13fdab87215950ebfca9f4006ba18c645",
     "name": "Tami Tojo",
-    "id": 20871
+    "id": 20871,
+    "external_url": "https://waifufaucet.com/waifu/cb03fd33864a2a313df1686c6e26d9e13fdab87215950ebfca9f4006ba18c645",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an incredibly calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would never pass up a chance for a good fistfight"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        }
+    ]
 }
