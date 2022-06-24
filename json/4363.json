@@ -2,5 +2,56 @@
     "image": "https://icons.waifufaucet.com/original/1cca30b0fc103fe895e4e1be611dee04c7f315b2e8517e7d00f080963952a58e.png",
     "dna": "1cca30b0fc103fe895e4e1be611dee04c7f315b2e8517e7d00f080963952a58e",
     "name": "Natsumi Fujikawa",
-    "id": 4363
+    "id": 4363,
+    "external_url": "https://waifufaucet.com/waifu/1cca30b0fc103fe895e4e1be611dee04c7f315b2e8517e7d00f080963952a58e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

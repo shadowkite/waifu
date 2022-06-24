@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/65ed711b18052b80ff6f4ac67d836fb768c65d07d1e5e2eb9f6cac00c1c1c9bc.png",
     "dna": "65ed711b18052b80ff6f4ac67d836fb768c65d07d1e5e2eb9f6cac00c1c1c9bc",
     "name": "Rise Igarashi",
-    "id": 4650
+    "id": 4650,
+    "external_url": "https://waifufaucet.com/waifu/65ed711b18052b80ff6f4ac67d836fb768c65d07d1e5e2eb9f6cac00c1c1c9bc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by merrymakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Revels in chaos and discord, and she encourages it whenever possible"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is deliberately cruel to those unfortunate enough to be subject to her sadism"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Uncanny intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        }
+    ]
 }
