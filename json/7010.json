@@ -2,5 +2,124 @@
     "image": "https://icons.waifufaucet.com/original/fc1cf928f98ca640e880236e6d98f96ea5fa5d442a81da268be1192a0e466eca.png",
     "dna": "fc1cf928f98ca640e880236e6d98f96ea5fa5d442a81da268be1192a0e466eca",
     "name": "Inami Kamioka",
-    "id": 7010
+    "id": 7010,
+    "external_url": "https://waifufaucet.com/waifu/fc1cf928f98ca640e880236e6d98f96ea5fa5d442a81da268be1192a0e466eca",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views the pursuit of knowledge as deeply important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Shares intimate details of life without sparing a thought to repercussions or propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is concerned only with matters practical to the situation at hand, with absolutely no inclination toward abstract discussion"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

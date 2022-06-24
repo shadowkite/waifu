@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/c01e2e605bccf2475502ed5dd07bff081be2338605d9b78aac8cd08ab91974fc.png",
     "dna": "c01e2e605bccf2475502ed5dd07bff081be2338605d9b78aac8cd08ab91974fc",
     "name": "Sona Okada",
-    "id": 9618
+    "id": 9618,
+    "external_url": "https://waifufaucet.com/waifu/c01e2e605bccf2475502ed5dd07bff081be2338605d9b78aac8cd08ab91974fc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by the idea of loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great sense of empathy"
+        }
+    ]
 }

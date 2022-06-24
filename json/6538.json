@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/82fccfdf48ff17b8db8ec86ea3e3c49daaeb7b61ca91c65e8ab0567ee9fbb660.png",
     "dna": "82fccfdf48ff17b8db8ec86ea3e3c49daaeb7b61ca91c65e8ab0567ee9fbb660",
     "name": "Narisa Shimamura",
-    "id": 6538
+    "id": 6538,
+    "external_url": "https://waifufaucet.com/waifu/82fccfdf48ff17b8db8ec86ea3e3c49daaeb7b61ca91c65e8ab0567ee9fbb660",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that honesty is a high ideal"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

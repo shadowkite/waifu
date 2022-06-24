@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/99decc3e58ebf8e0b1e4f8298975ff7ec33e1ed43a54b6e642f6ded9708a81ff.png",
     "dna": "99decc3e58ebf8e0b1e4f8298975ff7ec33e1ed43a54b6e642f6ded9708a81ff",
     "name": "Aruha Shigeki",
-    "id": 8975
+    "id": 8975,
+    "external_url": "https://waifufaucet.com/waifu/99decc3e58ebf8e0b1e4f8298975ff7ec33e1ed43a54b6e642f6ded9708a81ff",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the idea of laws abhorrent"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often sad and dejected"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Disdains even the best advice of associates and family, relying strictly on her own counsel"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no confidence at all in her talent and abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very little patience"
+        }
+    ]
 }

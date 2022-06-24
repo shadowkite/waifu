@@ -2,5 +2,112 @@
     "image": "https://icons.waifufaucet.com/original/a37ec1fb79a632ae1791c4e1f8b4c6c6da9139adecec787d1981d96fc40073c2.png",
     "dna": "a37ec1fb79a632ae1791c4e1f8b4c6c6da9139adecec787d1981d96fc40073c2",
     "name": "Ririna Tsukioka",
-    "id": 9682
+    "id": 9682,
+    "external_url": "https://waifufaucet.com/waifu/a37ec1fb79a632ae1791c4e1f8b4c6c6da9139adecec787d1981d96fc40073c2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks the quest for knowledge is a delusional fantasy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very curious, sometimes to her detriment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An atrocious spatial sense"
+        }
+    ]
 }

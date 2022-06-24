@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/064f28657fc6a78ad50dc84479a1d1b3f947d59cea4480e0952e38ed5ce3096f.png",
     "dna": "064f28657fc6a78ad50dc84479a1d1b3f947d59cea4480e0952e38ed5ce3096f",
     "name": "Yune Hakamada",
-    "id": 993
+    "id": 993,
+    "external_url": "https://waifufaucet.com/waifu/064f28657fc6a78ad50dc84479a1d1b3f947d59cea4480e0952e38ed5ce3096f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": ""
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite durable"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

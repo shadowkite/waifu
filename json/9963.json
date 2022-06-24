@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/600789f9808e370cdee150c22490ec9994be31ce8887ccb37b297601ed6675ab.png",
     "dna": "600789f9808e370cdee150c22490ec9994be31ce8887ccb37b297601ed6675ab",
     "name": "Reeko Yokoyama",
-    "id": 9963
+    "id": 9963,
+    "external_url": "https://waifufaucet.com/waifu/600789f9808e370cdee150c22490ec9994be31ce8887ccb37b297601ed6675ab",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

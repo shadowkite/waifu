@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/c8537f0d1fe5264fe9f14113658de1bc51b7b7bc6f9c3e50343139b895385086.png",
     "dna": "c8537f0d1fe5264fe9f14113658de1bc51b7b7bc6f9c3e50343139b895385086",
     "name": "Suko Matsunaga",
-    "id": 8291
+    "id": 8291,
+    "external_url": "https://waifufaucet.com/waifu/c8537f0d1fe5264fe9f14113658de1bc51b7b7bc6f9c3e50343139b895385086",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Feels that introspection and all forms of self-examination are the keys to a good life and worthy of respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives an orderly life, organized and neat"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

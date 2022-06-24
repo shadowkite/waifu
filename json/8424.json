@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/8c3c05ef8331ae966d9319d6821cc9b6e953657722d7458e004065920ab1cea1.png",
     "dna": "8c3c05ef8331ae966d9319d6821cc9b6e953657722d7458e004065920ab1cea1",
     "name": "Pinku Amagawa",
-    "id": 8424
+    "id": 8424,
+    "external_url": "https://waifufaucet.com/waifu/8c3c05ef8331ae966d9319d6821cc9b6e953657722d7458e004065920ab1cea1",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very easily falls into love and develops positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

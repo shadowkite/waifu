@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/25237ff26c7212112229d2e7ac12149e6df89337ba840f3791fc31f64031433b.png",
     "dna": "25237ff26c7212112229d2e7ac12149e6df89337ba840f3791fc31f64031433b",
     "name": "Kuno Yamhata",
-    "id": 6918
+    "id": 6918,
+    "external_url": "https://waifufaucet.com/waifu/25237ff26c7212112229d2e7ac12149e6df89337ba840f3791fc31f64031433b",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does everything in her power to avoid excitement and stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        }
+    ]
 }

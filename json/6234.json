@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/8a78426b6dff52ba3c48c4dc51d91a61ed266f8d642589066b9b9747e8346ca0.png",
     "dna": "8a78426b6dff52ba3c48c4dc51d91a61ed266f8d642589066b9b9747e8346ca0",
     "name": "Momie Masanobu",
-    "id": 6234
+    "id": 6234,
+    "external_url": "https://waifufaucet.com/waifu/8a78426b6dff52ba3c48c4dc51d91a61ed266f8d642589066b9b9747e8346ca0",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those who sacrifice for others should be deeply respected"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very ambitious, always looking for a way to better her situation"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

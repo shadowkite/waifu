@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/a9a1998e265ad97b4ca603cb21b4dd0f9bd894c9a89b546dd42e5cbbd26592b1.png",
     "dna": "a9a1998e265ad97b4ca603cb21b4dd0f9bd894c9a89b546dd42e5cbbd26592b1",
     "name": "Akira Ishimura",
-    "id": 7889
+    "id": 7889,
+    "external_url": "https://waifufaucet.com/waifu/a9a1998e265ad97b4ca603cb21b4dd0f9bd894c9a89b546dd42e5cbbd26592b1",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very ambitious, always looking for a way to better her situation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

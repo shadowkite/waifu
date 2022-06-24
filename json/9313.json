@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/d4cbe893adbcf10de83a9dfc70737add9728c18cf2427f52fd0b6d2d1fa2f370.png",
     "dna": "d4cbe893adbcf10de83a9dfc70737add9728c18cf2427f52fd0b6d2d1fa2f370",
     "name": "Kadzumi Hori",
-    "id": 9313
+    "id": 9313,
+    "external_url": "https://waifufaucet.com/waifu/d4cbe893adbcf10de83a9dfc70737add9728c18cf2427f52fd0b6d2d1fa2f370",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frustratingly sloppy and careless with every task she sets to carry out"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Sees others as selfish and conniving"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

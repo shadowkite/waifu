@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/e39d1ff9ac554850c0f8fced39fb0633cb2fe7481fdb1ad1f109b7d03381009b.png",
     "dna": "e39d1ff9ac554850c0f8fced39fb0633cb2fe7481fdb1ad1f109b7d03381009b",
     "name": "Rion Ebina",
-    "id": 9254
+    "id": 9254,
+    "external_url": "https://waifufaucet.com/waifu/e39d1ff9ac554850c0f8fced39fb0633cb2fe7481fdb1ad1f109b7d03381009b",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is offended by leisure time and leisurely living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very happy and optimistic"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Drops any activity at the slightest hint of difficulty or even the suggestion of effort being required"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Always presents herself as extravagantly as possible, displaying a magnificent image to the world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

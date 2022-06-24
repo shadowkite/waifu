@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/197b7a56830e42ca1e21293dea409c0070616ab628d8c5aeaef928657d279556.png",
     "dna": "197b7a56830e42ca1e21293dea409c0070616ab628d8c5aeaef928657d279556",
     "name": "Miru Tarumi",
-    "id": 5793
+    "id": 5793,
+    "external_url": "https://waifufaucet.com/waifu/197b7a56830e42ca1e21293dea409c0070616ab628d8c5aeaef928657d279556",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely careless with resources when completing projects, and invariably wastes a lot of time and effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not feel the slightest need to reciprocate favors that others do for her, no matter how major the help or how much she needed it"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Shares intimate details of life without sparing a thought to repercussions or propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great memory"
+        }
+    ]
 }

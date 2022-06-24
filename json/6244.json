@@ -2,5 +2,116 @@
     "image": "https://icons.waifufaucet.com/original/5c9a0ac8f5ac1e5695d891b3d7e7c2269d8ddf9e171fd1f056027aa5d69fbc10.png",
     "dna": "5c9a0ac8f5ac1e5695d891b3d7e7c2269d8ddf9e171fd1f056027aa5d69fbc10",
     "name": "Asuka Katsu",
-    "id": 6244
+    "id": 6244,
+    "external_url": "https://waifufaucet.com/waifu/5c9a0ac8f5ac1e5695d891b3d7e7c2269d8ddf9e171fd1f056027aa5d69fbc10",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds fairness as one of the highest ideals and despises cheating of any kind"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds sacrifice to be one of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply dislikes competition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very easily falls into love and develops positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incredibly brave in the face of looming danger, perhaps a bit foolhardy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        }
+    ]
 }

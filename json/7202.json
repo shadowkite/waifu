@@ -2,5 +2,124 @@
     "image": "https://icons.waifufaucet.com/original/7f5bd58ec1aa9947109c12f435e553030429588249cb2a64eb17d5c30013b95c.png",
     "dna": "7f5bd58ec1aa9947109c12f435e553030429588249cb2a64eb17d5c30013b95c",
     "name": "Keiga Kamachi",
-    "id": 7202
+    "id": 7202,
+    "external_url": "https://waifufaucet.com/waifu/7f5bd58ec1aa9947109c12f435e553030429588249cb2a64eb17d5c30013b95c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the pursuit of good craftsmanship as a total waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unbelievably stubborn, and will stick with even the most futile action once her mind is made up"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is bashful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

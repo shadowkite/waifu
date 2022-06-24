@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/b3fb5cf0452d7389d9430397d678ac132e05c677da8ed4cd4ba475fb3c473103.png",
     "dna": "b3fb5cf0452d7389d9430397d678ac132e05c677da8ed4cd4ba475fb3c473103",
     "name": "Hirari Kira",
-    "id": 6170
+    "id": 6170,
+    "external_url": "https://waifufaucet.com/waifu/b3fb5cf0452d7389d9430397d678ac132e05c677da8ed4cd4ba475fb3c473103",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is vengeful and never forgets or forgives past grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an overinflated sense of self-worth"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little natural inclination toward music"
+        }
+    ]
 }

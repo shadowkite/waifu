@@ -2,5 +2,124 @@
     "image": "https://icons.waifufaucet.com/original/3d3be42f9164ecebcee345ebcea949af3b2182ceaa98531a3820de5f78ea15e2.png",
     "dna": "3d3be42f9164ecebcee345ebcea949af3b2182ceaa98531a3820de5f78ea15e2",
     "name": "Natsune Kuroki",
-    "id": 6611
+    "id": 6611,
+    "external_url": "https://waifufaucet.com/waifu/3d3be42f9164ecebcee345ebcea949af3b2182ceaa98531a3820de5f78ea15e2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees freedom and independence as completely worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels lustful passions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a dyed-in-the-wool quarreler, never missing a chance to lash out in verbal hostility"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Next to no empathy"
+        }
+    ]
 }

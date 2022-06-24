@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/6b1ae2362a9261e849a7bafbf8a121a3b0939489e949bb08c1747b1a3e422bd2.png",
     "dna": "6b1ae2362a9261e849a7bafbf8a121a3b0939489e949bb08c1747b1a3e422bd2",
     "name": "Izuho Shirahata",
-    "id": 536
+    "id": 536,
+    "external_url": "https://waifufaucet.com/waifu/6b1ae2362a9261e849a7bafbf8a121a3b0939489e949bb08c1747b1a3e422bd2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not careful with resources when working on projects and often spends unnecessary effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very friendly and always tries to say nice things to others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Great intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        }
+    ]
 }

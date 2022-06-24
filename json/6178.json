@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/e4b6d6f9fcd77f0d55a3409e5b7a44ff400ce0370d7177f3cf2888cdeeb58445.png",
     "dna": "e4b6d6f9fcd77f0d55a3409e5b7a44ff400ce0370d7177f3cf2888cdeeb58445",
     "name": "Azuki Toru",
-    "id": 6178
+    "id": 6178,
+    "external_url": "https://waifufaucet.com/waifu/e4b6d6f9fcd77f0d55a3409e5b7a44ff400ce0370d7177f3cf2888cdeeb58445",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is greatly pleased by her own looks and accomplishments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        }
+    ]
 }

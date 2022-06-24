@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/58eff419344cc6deb1ed2efe8ee74fb675cb032becf05bbd0f85be73d26ae0cb.png",
     "dna": "58eff419344cc6deb1ed2efe8ee74fb675cb032becf05bbd0f85be73d26ae0cb",
     "name": "Uno Kan",
-    "id": 665
+    "id": 665,
+    "external_url": "https://waifufaucet.com/waifu/58eff419344cc6deb1ed2efe8ee74fb675cb032becf05bbd0f85be73d26ae0cb",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Treasures independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Can't fathom why anyone would want to live in an orderly and harmonious society"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very happy and optimistic"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds a chaotic mess preferable to the boredom of harmonious living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Really susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

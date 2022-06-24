@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/ef797e6212cfaff6d9d24b525e4ca8126f7cafe01ea08e27b8a41b76e0699dd9.png",
     "dna": "ef797e6212cfaff6d9d24b525e4ca8126f7cafe01ea08e27b8a41b76e0699dd9",
     "name": "Hozue Akutagawa",
-    "id": 7673
+    "id": 7673,
+    "external_url": "https://waifufaucet.com/waifu/ef797e6212cfaff6d9d24b525e4ca8126f7cafe01ea08e27b8a41b76e0699dd9",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that introspection is valueless and those that waste time in self-examination are deluded fools"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is appalled by merrymaking, parties and other such worthless activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views competition as a crucial driving force in the world"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that perseverance is one of the greatest qualities somebody can have"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never becomes angry"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural inclination toward language"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

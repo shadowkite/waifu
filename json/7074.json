@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/17bb7697626feace7fcf333ac75f3dad6b9ebb634dd31d9fc8f555c9e0093e0e.png",
     "dna": "17bb7697626feace7fcf333ac75f3dad6b9ebb634dd31d9fc8f555c9e0093e0e",
     "name": "Suzumi Seo",
-    "id": 7074
+    "id": 7074,
+    "external_url": "https://waifufaucet.com/waifu/17bb7697626feace7fcf333ac75f3dad6b9ebb634dd31d9fc8f555c9e0093e0e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family greatly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the whole pursuit of art as silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds sacrifice to be the height of folly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views the pursuit of knowledge as deeply important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incredibly brave in the face of looming danger, perhaps a bit foolhardy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely convinced of her own worthlessness"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        }
+    ]
 }

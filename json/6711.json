@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/b4f79e282bcf3f919c378082d9d210c5a8caa9415fe6d7c12a1c2bf7179518d4.png",
     "dna": "b4f79e282bcf3f919c378082d9d210c5a8caa9415fe6d7c12a1c2bf7179518d4",
     "name": "Kammi Kameyama",
-    "id": 6711
+    "id": 6711,
+    "external_url": "https://waifufaucet.com/waifu/b4f79e282bcf3f919c378082d9d210c5a8caa9415fe6d7c12a1c2bf7179518d4",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees artful speech and eloquence as a wasteful form of deliberate deception and treats it as such"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by merrymakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not have feelings of emotional attachment and has never felt even a moment's connection with another being"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others very emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        }
+    ]
 }

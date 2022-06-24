@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/eaaa0c43a83541a27b3e47e14f9cdc28a467db4a97b0b9edf578b7b7fb287257.png",
     "dna": "eaaa0c43a83541a27b3e47e14f9cdc28a467db4a97b0b9edf578b7b7fb287257",
     "name": "Mibuki Sakakibara",
-    "id": 6748
+    "id": 6748,
+    "external_url": "https://waifufaucet.com/waifu/eaaa0c43a83541a27b3e47e14f9cdc28a467db4a97b0b9edf578b7b7fb287257",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that honesty is a high ideal"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those who sacrifice for others should be deeply respected"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is utterly humorless"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Unquestionably weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iron will"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        }
+    ]
 }

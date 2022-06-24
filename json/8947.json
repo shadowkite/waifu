@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/1e8909bf6283ab8a1a0c315d0c44c5f5416b548ad8ec4bc091310dd45ede1fac.png",
     "dna": "1e8909bf6283ab8a1a0c315d0c44c5f5416b548ad8ec4bc091310dd45ede1fac",
     "name": "Yuisa Kawachi",
-    "id": 8947
+    "id": 8947,
+    "external_url": "https://waifufaucet.com/waifu/1e8909bf6283ab8a1a0c315d0c44c5f5416b548ad8ec4bc091310dd45ede1fac",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very easily falls into love and develops positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "No patience at all"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural inclination toward language"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very bad sense of empathy"
+        }
+    ]
 }

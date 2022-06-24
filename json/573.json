@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/37006dea475bbca0aba49c70d34f0ad75329eaf1b9582b62dec5bb9c4554720a.png",
     "dna": "37006dea475bbca0aba49c70d34f0ad75329eaf1b9582b62dec5bb9c4554720a",
     "name": "Chino Yamato",
-    "id": 573
+    "id": 573,
+    "external_url": "https://waifufaucet.com/waifu/37006dea475bbca0aba49c70d34f0ad75329eaf1b9582b62dec5bb9c4554720a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Incredibly quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/798a2762f972d3f0b8eca75f1106b3740890fa5509b700192a41aa51dbb55c1a.png",
     "dna": "798a2762f972d3f0b8eca75f1106b3740890fa5509b700192a41aa51dbb55c1a",
     "name": "Touka Iriye",
-    "id": 6018
+    "id": 6018,
+    "external_url": "https://waifufaucet.com/waifu/798a2762f972d3f0b8eca75f1106b3740890fa5509b700192a41aa51dbb55c1a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks the quest for knowledge is a delusional fantasy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Eschews practical concerns for philosophical discussion, puzzles, riddles and the world of ideas"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

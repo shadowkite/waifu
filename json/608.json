@@ -2,5 +2,124 @@
     "image": "https://icons.waifufaucet.com/original/52d8d77e3098125c5c7d0b2fcfa7806228ea736d6c80749d4caab9ffc328718b.png",
     "dna": "52d8d77e3098125c5c7d0b2fcfa7806228ea736d6c80749d4caab9ffc328718b",
     "name": "Ubuka Kamisaka",
-    "id": 608
+    "id": 608,
+    "external_url": "https://waifufaucet.com/waifu/52d8d77e3098125c5c7d0b2fcfa7806228ea736d6c80749d4caab9ffc328718b",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Hates those who wield power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not feel the slightest need to reciprocate favors that others do for her, no matter how major the help or how much she needed it"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Always presents herself as extravagantly as possible, displaying a magnificent image to the world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

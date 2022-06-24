@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/1e9d9e7abadfad351a1a0f4afd8cb722473fdab9b40539bd721e79d6bd0b5a94.png",
     "dna": "1e9d9e7abadfad351a1a0f4afd8cb722473fdab9b40539bd721e79d6bd0b5a94",
     "name": "Kita Takase",
-    "id": 6886
+    "id": 6886,
+    "external_url": "https://waifufaucet.com/waifu/1e9d9e7abadfad351a1a0f4afd8cb722473fdab9b40539bd721e79d6bd0b5a94",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by merrymakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep respect for animals, plants and the natural world"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incredibly brave in the face of looming danger, perhaps a bit foolhardy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is absorbed in delusions of self-importance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Remarkably flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

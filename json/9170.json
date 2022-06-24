@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/c3559efaa740c48fdc6eb523a453e42a0f122c16afee4707316dd28c3dac0f24.png",
     "dna": "c3559efaa740c48fdc6eb523a453e42a0f122c16afee4707316dd28c3dac0f24",
     "name": "Mikari Taniguchi",
-    "id": 9170
+    "id": 9170,
+    "external_url": "https://waifufaucet.com/waifu/c3559efaa740c48fdc6eb523a453e42a0f122c16afee4707316dd28c3dac0f24",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is appalled by merrymaking, parties and other such worthless activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very greedy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Hates vows, obligations, promises and other binding elements that could restrict her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

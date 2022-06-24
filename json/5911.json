@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/935a5d6fbe88561ab0c1ff8c4cf02b4dbf99eecbbdd6afb7122df012608c68fc.png",
     "dna": "935a5d6fbe88561ab0c1ff8c4cf02b4dbf99eecbbdd6afb7122df012608c68fc",
     "name": "Shuuha Kinjo",
-    "id": 5911
+    "id": 5911,
+    "external_url": "https://waifufaucet.com/waifu/935a5d6fbe88561ab0c1ff8c4cf02b4dbf99eecbbdd6afb7122df012608c68fc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Feels that introspection and all forms of self-examination are the keys to a good life and worthy of respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Treasures leisure time and thinks it is very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others very emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An astonishing ability with languages and words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very bad sense of empathy"
+        }
+    ]
 }

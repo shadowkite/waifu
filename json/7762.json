@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/6ccc3d6f85ee42183fb4c4749fd0b77c68d6a675782f2531f3db8fb54b23d81a.png",
     "dna": "6ccc3d6f85ee42183fb4c4749fd0b77c68d6a675782f2531f3db8fb54b23d81a",
     "name": "Yachi Takashima",
-    "id": 7762
+    "id": 7762,
+    "external_url": "https://waifufaucet.com/waifu/6ccc3d6f85ee42183fb4c4749fd0b77c68d6a675782f2531f3db8fb54b23d81a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good intuition"
+        }
+    ]
 }

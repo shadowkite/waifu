@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/641a84ee00b18e05c59a0e053e7159187351dbba766e3cdca8c070f6d3009f49.png",
     "dna": "641a84ee00b18e05c59a0e053e7159187351dbba766e3cdca8c070f6d3009f49",
     "name": "Amika Hayata",
-    "id": 869
+    "id": 869,
+    "external_url": "https://waifufaucet.com/waifu/641a84ee00b18e05c59a0e053e7159187351dbba766e3cdca8c070f6d3009f49",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Truly values merrymaking and parties"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        }
+    ]
 }

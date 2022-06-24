@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/0a88acdcf328f85d8a2124d7951e87870427ab89189c2cbdae5b02151f7d7523.png",
     "dna": "0a88acdcf328f85d8a2124d7951e87870427ab89189c2cbdae5b02151f7d7523",
     "name": "Seki Shiratori",
-    "id": 991
+    "id": 991,
+    "external_url": "https://waifufaucet.com/waifu/0a88acdcf328f85d8a2124d7951e87870427ab89189c2cbdae5b02151f7d7523",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is offended by leisure time and leisurely living"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very greedy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not careful with resources when working on projects and often spends unnecessary effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        }
+    ]
 }

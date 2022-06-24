@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/ee10516f3f868b01eb72b8c8d312ee1fb90752449a01be1c12daf2ebfb117881.png",
     "dna": "ee10516f3f868b01eb72b8c8d312ee1fb90752449a01be1c12daf2ebfb117881",
     "name": "Sonoe Okui",
-    "id": 7292
+    "id": 7292,
+    "external_url": "https://waifufaucet.com/waifu/ee10516f3f868b01eb72b8c8d312ee1fb90752449a01be1c12daf2ebfb117881",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those who sacrifice for others should be deeply respected"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

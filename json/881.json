@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/aaaca2e71057995144723a79cc24afc61f3f4a9f3d40068cd555322aad0bf0cf.png",
     "dna": "aaaca2e71057995144723a79cc24afc61f3f4a9f3d40068cd555322aad0bf0cf",
     "name": "Eo Nishimuraya",
-    "id": 881
+    "id": 881,
+    "external_url": "https://waifufaucet.com/waifu/aaaca2e71057995144723a79cc24afc61f3f4a9f3d40068cd555322aad0bf0cf",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Lacks any respect for family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very happy and optimistic"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives an orderly life, organized and neat"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

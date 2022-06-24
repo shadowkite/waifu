@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/fcdac4cc2ae2354e8641fc40b5a0fe4bddf3431ab82fa5fc6cda1dc5dd081791.png",
     "dna": "fcdac4cc2ae2354e8641fc40b5a0fe4bddf3431ab82fa5fc6cda1dc5dd081791",
     "name": "Chisumi Sakamoto",
-    "id": 9084
+    "id": 9084,
+    "external_url": "https://waifufaucet.com/waifu/fcdac4cc2ae2354e8641fc40b5a0fe4bddf3431ab82fa5fc6cda1dc5dd081791",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has little time for forgiveness and will generally seek retribution"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        }
+    ]
 }

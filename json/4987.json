@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/55d51d0d090aaad42cbdeee71b64760cea491a4a77e62f17990a7c71ef611643.png",
     "dna": "55d51d0d090aaad42cbdeee71b64760cea491a4a77e62f17990a7c71ef611643",
     "name": "Aiki Shimon",
-    "id": 4987
+    "id": 4987,
+    "external_url": "https://waifufaucet.com/waifu/55d51d0d090aaad42cbdeee71b64760cea491a4a77e62f17990a7c71ef611643",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the following of tradition foolish and limiting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not have feelings of emotional attachment and has never felt even a moment's connection with another being"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is obsessed with order and structure in her own life, with everything kept in its proper place"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An astonishing ability with languages and words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

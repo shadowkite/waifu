@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/5ba87e859cb885490e584a7c85b9caa1db9c51d8436f9f5488bbc5bae1d151d0.png",
     "dna": "5ba87e859cb885490e584a7c85b9caa1db9c51d8436f9f5488bbc5bae1d151d0",
     "name": "Hanaha Kanai",
-    "id": 9209
+    "id": 9209,
+    "external_url": "https://waifufaucet.com/waifu/5ba87e859cb885490e584a7c85b9caa1db9c51d8436f9f5488bbc5bae1d151d0",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Really respects those that take the time to master a skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frequently depressed"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a vulgar being who does not care a lick for even the most basic rules of civilized living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a complete scatterbrain, unable to focus on a single matter for more than a passing moment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A natural ability with music"
+        }
+    ]
 }

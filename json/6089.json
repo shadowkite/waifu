@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/9878f2d8ccd71429ddca23dfb858cf891b5108e7213863e8e48aa86f49eeb3c2.png",
     "dna": "9878f2d8ccd71429ddca23dfb858cf891b5108e7213863e8e48aa86f49eeb3c2",
     "name": "Chie Senda",
-    "id": 6089
+    "id": 6089,
+    "external_url": "https://waifufaucet.com/waifu/9878f2d8ccd71429ddca23dfb858cf891b5108e7213863e8e48aa86f49eeb3c2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those that take leisure time are evil and finds the whole idea disgusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no ambition whatsoever"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A deep well of patience"
+        }
+    ]
 }

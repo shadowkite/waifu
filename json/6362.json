@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/342a4265e98bd9fa340be3f6aeb2a2a5dfc5f26161cd8194039f1d5a0ef0bf52.png",
     "dna": "342a4265e98bd9fa340be3f6aeb2a2a5dfc5f26161cd8194039f1d5a0ef0bf52",
     "name": "Nijiho Hirota",
-    "id": 6362
+    "id": 6362,
+    "external_url": "https://waifufaucet.com/waifu/342a4265e98bd9fa340be3f6aeb2a2a5dfc5f26161cd8194039f1d5a0ef0bf52",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees friendship as one of the finer things in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the pursuit of good craftsmanship as a total waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

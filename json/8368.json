@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/3cb36a3b0795100ca3e0f681e0cec646f60d31f809c9ff3d6808837ebeb42079.png",
     "dna": "3cb36a3b0795100ca3e0f681e0cec646f60d31f809c9ff3d6808837ebeb42079",
     "name": "Kadzuho Sakurai",
-    "id": 8368
+    "id": 8368,
+    "external_url": "https://waifufaucet.com/waifu/3cb36a3b0795100ca3e0f681e0cec646f60d31f809c9ff3d6808837ebeb42079",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Really susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

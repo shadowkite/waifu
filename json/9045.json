@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/fa5dbbc08d8077864d57a437bad11a5544567d591fdb18da21498ef6d7742f8c.png",
     "dna": "fa5dbbc08d8077864d57a437bad11a5544567d591fdb18da21498ef6d7742f8c",
     "name": "Saiha Kishi",
-    "id": 9045
+    "id": 9045,
+    "external_url": "https://waifufaucet.com/waifu/fa5dbbc08d8077864d57a437bad11a5544567d591fdb18da21498ef6d7742f8c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees friendship as one of the finer things in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the acquisition of power over others is the ideal goal in life and worthy of the highest respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by tradition and would flout any she encounters if given a chance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": ""
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an incredibly calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        }
+    ]
 }

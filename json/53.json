@@ -2,5 +2,112 @@
     "image": "https://icons.waifufaucet.com/original/d8e0555dadaed94658a3d8372e6f9ee8cf1e3ea83c207ebb99054c28c5cf6872.png",
     "dna": "d8e0555dadaed94658a3d8372e6f9ee8cf1e3ea83c207ebb99054c28c5cf6872",
     "name": "Miwako Akutagawa",
-    "id": 53
+    "id": 53,
+    "external_url": "https://waifufaucet.com/waifu/d8e0555dadaed94658a3d8372e6f9ee8cf1e3ea83c207ebb99054c28c5cf6872",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects artists and their works"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is appalled by merrymaking, parties and other such worthless activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Unquestionably weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

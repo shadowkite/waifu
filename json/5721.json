@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/6e5447f489fd35759ecdf5082345c8fd72ab2b4d8d558ae947e3b305539cf715.png",
     "dna": "6e5447f489fd35759ecdf5082345c8fd72ab2b4d8d558ae947e3b305539cf715",
     "name": "Nazumi Takahashi",
-    "id": 5721
+    "id": 5721,
+    "external_url": "https://waifufaucet.com/waifu/6e5447f489fd35759ecdf5082345c8fd72ab2b4d8d558ae947e3b305539cf715",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

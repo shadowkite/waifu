@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/fac29db3f96283f647d61f2a58d6d4bd4e2f73377872029850c96956b5079c1f.png",
     "dna": "fac29db3f96283f647d61f2a58d6d4bd4e2f73377872029850c96956b5079c1f",
     "name": "Hirari Shige",
-    "id": 6220
+    "id": 6220,
+    "external_url": "https://waifufaucet.com/waifu/fac29db3f96283f647d61f2a58d6d4bd4e2f73377872029850c96956b5079c1f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Hates those who wield power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Really respects those that take the time to master a skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds sacrifice to be the height of folly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels strong urges and seeks short-term rewards"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very single-minded"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An unbelievably atrocious sense of the position of her own body"
+        }
+    ]
 }

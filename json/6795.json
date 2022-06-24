@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/28fd6283966f5831f17fe6e8dcbdc74c9595a1414466c8209a48dce882abe6ef.png",
     "dna": "28fd6283966f5831f17fe6e8dcbdc74c9595a1414466c8209a48dce882abe6ef",
     "name": "Shiona Kawashima",
-    "id": 6795
+    "id": 6795,
+    "external_url": "https://waifufaucet.com/waifu/28fd6283966f5831f17fe6e8dcbdc74c9595a1414466c8209a48dce882abe6ef",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views cooperation as a low ideal not worthy of any respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Treasures leisure time and thinks it is very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels lustful passions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would flee even the most necessary battle to avoid any form of physical confrontation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

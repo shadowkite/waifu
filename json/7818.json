@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/8da50515f09ce607d75ce65e41f00fd9e38a1084005ef77823c30101fe9a7c7d.png",
     "dna": "8da50515f09ce607d75ce65e41f00fd9e38a1084005ef77823c30101fe9a7c7d",
     "name": "Maru Ienari",
-    "id": 7818
+    "id": 7818,
+    "external_url": "https://waifufaucet.com/waifu/8da50515f09ce607d75ce65e41f00fd9e38a1084005ef77823c30101fe9a7c7d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very comfortable around others that are different from her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A stunning feel for spatial relationships"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/3a06f240560872b99ff1dbc817eb01faf0637feb4c6381d92cc21151f64abfba.png",
     "dna": "3a06f240560872b99ff1dbc817eb01faf0637feb4c6381d92cc21151f64abfba",
     "name": "Gin Kenkyusha",
-    "id": 8479
+    "id": 8479,
+    "external_url": "https://waifufaucet.com/waifu/3a06f240560872b99ff1dbc817eb01faf0637feb4c6381d92cc21151f64abfba",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly prizes loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees friendship as one of the finer things in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds herself somewhat disgusted with eloquent speakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frustratingly sloppy and careless with every task she sets to carry out"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is intellectually stubborn, rarely changing her mind during a debate regardless of the merits"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

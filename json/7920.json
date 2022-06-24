@@ -2,5 +2,116 @@
     "image": "https://icons.waifufaucet.com/original/75b6a6d9e09107fba35bc8cb754e9a500815d6c940c12cc039fe7b953160ca9c.png",
     "dna": "75b6a6d9e09107fba35bc8cb754e9a500815d6c940c12cc039fe7b953160ca9c",
     "name": "Miiko Kikkawa",
-    "id": 7920
+    "id": 7920,
+    "external_url": "https://waifufaucet.com/waifu/75b6a6d9e09107fba35bc8cb754e9a500815d6c940c12cc039fe7b953160ca9c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the denial of impulses as a vain and foolish pursuit"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees romance as one of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds the humor in most situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has little time for forgiveness and will generally seek retribution"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very single-minded"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor spatial senses"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor ability to manage or understand social relationships"
+        }
+    ]
 }

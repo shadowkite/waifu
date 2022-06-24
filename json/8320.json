@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/dfdf3b705e9f37399b080ff25b27fc1e1ab6cba542dbb921f6879dbfee4dea40.png",
     "dna": "dfdf3b705e9f37399b080ff25b27fc1e1ab6cba542dbb921f6879dbfee4dea40",
     "name": "Yukisa Fukumoto",
-    "id": 8320
+    "id": 8320,
+    "external_url": "https://waifufaucet.com/waifu/dfdf3b705e9f37399b080ff25b27fc1e1ab6cba542dbb921f6879dbfee4dea40",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds shrewd and crafty individuals in the lowest esteem"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Would have the world operate in complete harmony without the least bit of strife or disorder"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

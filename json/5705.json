@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/80f4474496b67a668336419a330846260c01d54145dcb7e396b33ff05f42c308.png",
     "dna": "80f4474496b67a668336419a330846260c01d54145dcb7e396b33ff05f42c308",
     "name": "Rie Komura",
-    "id": 5705
+    "id": 5705,
+    "external_url": "https://waifufaucet.com/waifu/80f4474496b67a668336419a330846260c01d54145dcb7e396b33ff05f42c308",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has great respect for fairness"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to strong feelings of jealousy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very ambitious, always looking for a way to better her situation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is swayed by emotional appeals"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

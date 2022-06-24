@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/ac886f5fa835f7b5fde329d26b4ea402a1b88a71b0536811eb794692b7f6c7ad.png",
     "dna": "ac886f5fa835f7b5fde329d26b4ea402a1b88a71b0536811eb794692b7f6c7ad",
     "name": "Tomoka Iidzuka",
-    "id": 8663
+    "id": 8663,
+    "external_url": "https://waifufaucet.com/waifu/ac886f5fa835f7b5fde329d26b4ea402a1b88a71b0536811eb794692b7f6c7ad",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very curious, sometimes to her detriment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frustratingly sloppy and careless with every task she sets to carry out"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A boundless creative imagination"
+        }
+    ]
 }

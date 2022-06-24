@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/e4fa54d3101c6bab9266a061718d39b7f605570b9df2229f06c628df7e8db604.png",
     "dna": "e4fa54d3101c6bab9266a061718d39b7f605570b9df2229f06c628df7e8db604",
     "name": "Nori Kudara",
-    "id": 850
+    "id": 850,
+    "external_url": "https://waifufaucet.com/waifu/e4fa54d3101c6bab9266a061718d39b7f605570b9df2229f06c628df7e8db604",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that peace is always preferable to war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often neglects her own wellbeing, having no interest in material goods"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is an optimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never moved by the emotions of others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good intuition"
+        }
+    ]
 }

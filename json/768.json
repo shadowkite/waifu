@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/d7838deba83a2f2a42fb6192c1ee932a4887e58d3ac80c78ecc851a55156b6d6.png",
     "dna": "d7838deba83a2f2a42fb6192c1ee932a4887e58d3ac80c78ecc851a55156b6d6",
     "name": "Ayami Urogataya",
-    "id": 768
+    "id": 768,
+    "external_url": "https://waifufaucet.com/waifu/d7838deba83a2f2a42fb6192c1ee932a4887e58d3ac80c78ecc851a55156b6d6",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has abandoned any attempt at self-control and finds the whole concept deeply offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels helping others is an imposition on her time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor ability to manage or understand social relationships"
+        }
+    ]
 }

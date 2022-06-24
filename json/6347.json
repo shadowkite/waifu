@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/6d8239f773507c034f1f426352bb04d26414326f219d864ad5ef33ae8a6dcea9.png",
     "dna": "6d8239f773507c034f1f426352bb04d26414326f219d864ad5ef33ae8a6dcea9",
     "name": "Meya Watnabe",
-    "id": 6347
+    "id": 6347,
+    "external_url": "https://waifufaucet.com/waifu/6d8239f773507c034f1f426352bb04d26414326f219d864ad5ef33ae8a6dcea9",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views the pursuit of knowledge as deeply important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

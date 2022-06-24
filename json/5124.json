@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/ffabb718101e07d17068a2bc75a7c30964be11950504df04fbff98fd140b0560.png",
     "dna": "ffabb718101e07d17068a2bc75a7c30964be11950504df04fbff98fd140b0560",
     "name": "Maou Kase",
-    "id": 5124
+    "id": 5124,
+    "external_url": "https://waifufaucet.com/waifu/ffabb718101e07d17068a2bc75a7c30964be11950504df04fbff98fd140b0560",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never the slightest bit cheerful about anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Remarkably flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/6d0b9e8b021f5713b93056de48dd2e02de103aaccff76bc25c02e79b9971247d.png",
     "dna": "6d0b9e8b021f5713b93056de48dd2e02de103aaccff76bc25c02e79b9971247d",
     "name": "Kosui Kurita",
-    "id": 7033
+    "id": 7033,
+    "external_url": "https://waifufaucet.com/waifu/6d0b9e8b021f5713b93056de48dd2e02de103aaccff76bc25c02e79b9971247d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very curious, sometimes to her detriment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A lack of understanding of social relationships"
+        }
+    ]
 }

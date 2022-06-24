@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/543e0743c4cc7f77052a749eeac1b80d3e3a82ae3f490f2e116798eed7a2bf4d.png",
     "dna": "543e0743c4cc7f77052a749eeac1b80d3e3a82ae3f490f2e116798eed7a2bf4d",
     "name": "Maira Tsutaya",
-    "id": 843
+    "id": 843,
+    "external_url": "https://waifufaucet.com/waifu/543e0743c4cc7f77052a749eeac1b80d3e3a82ae3f490f2e116798eed7a2bf4d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very polite and observes appropriate rules of decorum when possible"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Always presents herself as extravagantly as possible, displaying a magnificent image to the world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incurious and never seeks out knowledge or information to satisfy herself"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Totally clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iron will"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

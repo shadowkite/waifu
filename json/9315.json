@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/7a76a9f9953d6a1995fb7a510802fc01678a55b8444bcfe43c0ee830ef40a7dd.png",
     "dna": "7a76a9f9953d6a1995fb7a510802fc01678a55b8444bcfe43c0ee830ef40a7dd",
     "name": "Gemmei Nagaoka",
-    "id": 9315
+    "id": 9315,
+    "external_url": "https://waifufaucet.com/waifu/7a76a9f9953d6a1995fb7a510802fc01678a55b8444bcfe43c0ee830ef40a7dd",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no confidence at all in her talent and abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not feel the slightest need to reciprocate favors that others do for her, no matter how major the help or how much she needed it"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        }
+    ]
 }

@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/f96ee2c281df5058782b64fb9c36502e80487f71473e24b3f9aa913d3a1384bb.png",
     "dna": "f96ee2c281df5058782b64fb9c36502e80487f71473e24b3f9aa913d3a1384bb",
     "name": "Mitsuha Jinnai",
-    "id": 5367
+    "id": 5367,
+    "external_url": "https://waifufaucet.com/waifu/f96ee2c281df5058782b64fb9c36502e80487f71473e24b3f9aa913d3a1384bb",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees power over others as something to strive for"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is buffeted by others' emotions and can't help but to respond to them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Absolutely inexhaustible"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Great analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

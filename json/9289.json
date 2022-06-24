@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/9fdde9d06040bc16b325fafe61408f928e87643e5551dad17c4e82376922ff3e.png",
     "dna": "9fdde9d06040bc16b325fafe61408f928e87643e5551dad17c4e82376922ff3e",
     "name": "Chikuma Sakuma",
-    "id": 9289
+    "id": 9289,
+    "external_url": "https://waifufaucet.com/waifu/9fdde9d06040bc16b325fafe61408f928e87643e5551dad17c4e82376922ff3e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very easily falls into love and develops positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds a chaotic mess preferable to the boredom of harmonious living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

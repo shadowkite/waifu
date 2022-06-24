@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/1e0ddf184a376ab9cd859de39689b71ed93876724c5dc3294f3f0d87d88e6507.png",
     "dna": "1e0ddf184a376ab9cd859de39689b71ed93876724c5dc3294f3f0d87d88e6507",
     "name": "Makoto Yasuda",
-    "id": 8828
+    "id": 8828,
+    "external_url": "https://waifufaucet.com/waifu/1e0ddf184a376ab9cd859de39689b71ed93876724c5dc3294f3f0d87d88e6507",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is extremely confident of herself in situations requiring her skills"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely wrapped up in her own appearance, abilities and other personal matters"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an overbearing personality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An astounding feel for the position of her own body"
+        }
+    ]
 }

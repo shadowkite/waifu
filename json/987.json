@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/e3682976c7a26b50f97474d09a14358d342baef63d9c7d8fd8e9aa51bf0afa6c.png",
     "dna": "e3682976c7a26b50f97474d09a14358d342baef63d9c7d8fd8e9aa51bf0afa6c",
     "name": "Korin Yoshikawa",
-    "id": 987
+    "id": 987,
+    "external_url": "https://waifufaucet.com/waifu/e3682976c7a26b50f97474d09a14358d342baef63d9c7d8fd8e9aa51bf0afa6c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds shrewd and crafty individuals in the lowest esteem"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds a chaotic mess preferable to the boredom of harmonious living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great feel for the surrounding space"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very good sense of empathy"
+        }
+    ]
 }

@@ -2,5 +2,112 @@
     "image": "https://icons.waifufaucet.com/original/af785aa588ec3babf52df7d7c165771e2a67a36b5eb0e9d823e5b119bb47d392.png",
     "dna": "af785aa588ec3babf52df7d7c165771e2a67a36b5eb0e9d823e5b119bb47d392",
     "name": "Tsuya Kurusu",
-    "id": 9446
+    "id": 9446,
+    "external_url": "https://waifufaucet.com/waifu/af785aa588ec3babf52df7d7c165771e2a67a36b5eb0e9d823e5b119bb47d392",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has abandoned any attempt at self-control and finds the whole concept deeply offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks working hard is an abject idiocy"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks the quest for knowledge is a delusional fantasy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to hatreds and often develops negative feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a strong tendency toward privacy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Totally clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

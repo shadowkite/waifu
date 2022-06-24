@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/54b116a6bcfc6087b57cd712ac4658ffe9a6b335bffefd108142d805fd374c72.png",
     "dna": "54b116a6bcfc6087b57cd712ac4658ffe9a6b335bffefd108142d805fd374c72",
     "name": "Kadzusa Hojo",
-    "id": 5796
+    "id": 5796,
+    "external_url": "https://waifufaucet.com/waifu/54b116a6bcfc6087b57cd712ac4658ffe9a6b335bffefd108142d805fd374c72",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys being in crowds"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        }
+    ]
 }

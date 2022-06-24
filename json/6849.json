@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/372467ed67135b847f0b36b82a756d2228645761b353578f54ffcc3c751f83d2.png",
     "dna": "372467ed67135b847f0b36b82a756d2228645761b353578f54ffcc3c751f83d2",
     "name": "Maiki Moriwaka",
-    "id": 6849
+    "id": 6849,
+    "external_url": "https://waifufaucet.com/waifu/372467ed67135b847f0b36b82a756d2228645761b353578f54ffcc3c751f83d2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very weak"
+        }
+    ]
 }

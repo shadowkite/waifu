@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/83a2b7ac637a99ab4d4d93e15be97accd9938ff73327545777cd22b656e7febb.png",
     "dna": "83a2b7ac637a99ab4d4d93e15be97accd9938ff73327545777cd22b656e7febb",
     "name": "Soeru Kai",
-    "id": 8440
+    "id": 8440,
+    "external_url": "https://waifufaucet.com/waifu/83a2b7ac637a99ab4d4d93e15be97accd9938ff73327545777cd22b656e7febb",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is repelled by the idea of honesty and lies without compunction"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the mastery of a skill is one of the highest pursuits"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an overbearing personality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy creativity"
+        }
+    ]
 }

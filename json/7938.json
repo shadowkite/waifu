@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/0f5af60dc4b0716d5fbc32240d4cbbf82ad27f720c99c68d8457c10d89df34ec.png",
     "dna": "0f5af60dc4b0716d5fbc32240d4cbbf82ad27f720c99c68d8457c10d89df34ec",
     "name": "Tokiyo Shirasu",
-    "id": 7938
+    "id": 7938,
+    "external_url": "https://waifufaucet.com/waifu/0f5af60dc4b0716d5fbc32240d4cbbf82ad27f720c99c68d8457c10d89df34ec",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not feel the slightest need to reciprocate favors that others do for her, no matter how major the help or how much she needed it"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is intellectually stubborn, rarely changing her mind during a debate regardless of the merits"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

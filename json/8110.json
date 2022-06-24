@@ -2,5 +2,112 @@
     "image": "https://icons.waifufaucet.com/original/f58b1bfd65b6aeda36bdb7cc9bfa72288defdc1b757ae444f5a41195122daf46.png",
     "dna": "f58b1bfd65b6aeda36bdb7cc9bfa72288defdc1b757ae444f5a41195122daf46",
     "name": "Satoko Ooshiro",
-    "id": 8110
+    "id": 8110,
+    "external_url": "https://waifufaucet.com/waifu/f58b1bfd65b6aeda36bdb7cc9bfa72288defdc1b757ae444f5a41195122daf46",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Mighty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Next to no natural musical ability"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

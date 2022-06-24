@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/0b1aadcc258eca03c9b03965c8b4326e1d11e7d4a8a6546999c25996fefe0293.png",
     "dna": "0b1aadcc258eca03c9b03965c8b4326e1d11e7d4a8a6546999c25996fefe0293",
     "name": "Minoka Takudome",
-    "id": 6100
+    "id": 6100,
+    "external_url": "https://waifufaucet.com/waifu/0b1aadcc258eca03c9b03965c8b4326e1d11e7d4a8a6546999c25996fefe0293",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is greatly disturbed by quiet and a peaceful existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sharp intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

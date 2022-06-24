@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/15b0b8d27d9a94b246d86cd0f4dc9d474bfbbb1669bfdfb2b0fbcdf1d3cf0e66.png",
     "dna": "15b0b8d27d9a94b246d86cd0f4dc9d474bfbbb1669bfdfb2b0fbcdf1d3cf0e66",
     "name": "Kisha Akechi",
-    "id": 8038
+    "id": 8038,
+    "external_url": "https://waifufaucet.com/waifu/15b0b8d27d9a94b246d86cd0f4dc9d474bfbbb1669bfdfb2b0fbcdf1d3cf0e66",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views cooperation as a low ideal not worthy of any respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is impervious to the effects of stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

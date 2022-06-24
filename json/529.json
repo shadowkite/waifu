@@ -2,5 +2,124 @@
     "image": "https://icons.waifufaucet.com/original/56afa6fbcd416973ab0a5264aceb2efd8c2315d76346b41dda873af69c2fc6e6.png",
     "dna": "56afa6fbcd416973ab0a5264aceb2efd8c2315d76346b41dda873af69c2fc6e6",
     "name": "Akae Hike",
-    "id": 529
+    "id": 529,
+    "external_url": "https://waifufaucet.com/waifu/56afa6fbcd416973ab0a5264aceb2efd8c2315d76346b41dda873af69c2fc6e6",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never envies others their status, situation or possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Shockingly fragile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very good sense of empathy"
+        }
+    ]
 }

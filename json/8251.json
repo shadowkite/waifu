@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/81d6561b38a0b3fbe1ce619246c3dd47255c1745aa92c0ace59a770746491f79.png",
     "dna": "81d6561b38a0b3fbe1ce619246c3dd47255c1745aa92c0ace59a770746491f79",
     "name": "Oki Teshigahara",
-    "id": 8251
+    "id": 8251,
+    "external_url": "https://waifufaucet.com/waifu/81d6561b38a0b3fbe1ce619246c3dd47255c1745aa92c0ace59a770746491f79",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is offended by leisure time and leisurely living"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that peace is always preferable to war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others very emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Considers spending time alone much more important than associating with others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "No patience at all"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

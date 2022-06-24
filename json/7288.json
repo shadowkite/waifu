@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/ad32e0955d6e6b370b8d36864b630cf315f13f58a0c12d37fb5d1180d515d6e2.png",
     "dna": "ad32e0955d6e6b370b8d36864b630cf315f13f58a0c12d37fb5d1180d515d6e2",
     "name": "Seino Kenkyusha",
-    "id": 7288
+    "id": 7288,
+    "external_url": "https://waifufaucet.com/waifu/ad32e0955d6e6b370b8d36864b630cf315f13f58a0c12d37fb5d1180d515d6e2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Feels that those who attempt to conceal their emotions are vain and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        }
+    ]
 }

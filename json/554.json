@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/ed062b6005a6c2a1b8d69e2a112c99e18685b5e25fe357819702bc54552fa7c2.png",
     "dna": "ed062b6005a6c2a1b8d69e2a112c99e18685b5e25fe357819702bc54552fa7c2",
     "name": "Hiira Genda",
-    "id": 554
+    "id": 554,
+    "external_url": "https://waifufaucet.com/waifu/ed062b6005a6c2a1b8d69e2a112c99e18685b5e25fe357819702bc54552fa7c2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those who sacrifice for others should be deeply respected"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that engage in trade and commerce to be fairly disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an overinflated sense of self-worth"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cannot tolerate differences in culture, lifestyle or appearance"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A really bad memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

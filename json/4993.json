@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/735589ead31cb3740531ce8ca80e8c88bf0ae246bbd5652b151296da8ccb5e2a.png",
     "dna": "735589ead31cb3740531ce8ca80e8c88bf0ae246bbd5652b151296da8ccb5e2a",
     "name": "Kouhi Sugita",
-    "id": 4993
+    "id": 4993,
+    "external_url": "https://waifufaucet.com/waifu/735589ead31cb3740531ce8ca80e8c88bf0ae246bbd5652b151296da8ccb5e2a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks it is of the utmost importance to present a bold face and never grouse, complain or even show emotion"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views competition as a crucial driving force in the world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never falls in love or develops positive feelings toward anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Strongly prefers discussions of ideas and abstract concepts over handling specific practical issues"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

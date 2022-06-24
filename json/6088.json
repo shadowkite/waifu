@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/7accb1098a3f94e4500592894ccf2c8d1df2253a8cd99838aeeb29f3b3d209b2.png",
     "dna": "7accb1098a3f94e4500592894ccf2c8d1df2253a8cd99838aeeb29f3b3d209b2",
     "name": "Shiyu Yamadera",
-    "id": 6088
+    "id": 6088,
+    "external_url": "https://waifufaucet.com/waifu/7accb1098a3f94e4500592894ccf2c8d1df2253a8cd99838aeeb29f3b3d209b2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the very idea of competition obscene"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not have feelings of emotional attachment and has never felt even a moment's connection with another being"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels helping others is an imposition on her time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Seeks out exciting and adventurous situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Really slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

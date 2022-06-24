@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/b786a5a1186772b3a44158de14f4d63b5989baf3a11ca51a7b1804dc3a987b7e.png",
     "dna": "b786a5a1186772b3a44158de14f4d63b5989baf3a11ca51a7b1804dc3a987b7e",
     "name": "Ryouko Hyata",
-    "id": 8265
+    "id": 8265,
+    "external_url": "https://waifufaucet.com/waifu/b786a5a1186772b3a44158de14f4d63b5989baf3a11ca51a7b1804dc3a987b7e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cuts any corners possible when working on a project, regardless of the consequences, rather than wasting effort or resources"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms strong emotional bonds with others, at times to her detriment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little natural inclination toward music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        }
+    ]
 }

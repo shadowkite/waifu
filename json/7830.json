@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/47e6833114599f9de36aa59bbffbc88971b2b85dc6f5d39f7735d87e7baddc59.png",
     "dna": "47e6833114599f9de36aa59bbffbc88971b2b85dc6f5d39f7735d87e7baddc59",
     "name": "Sora Ootake",
-    "id": 7830
+    "id": 7830,
+    "external_url": "https://waifufaucet.com/waifu/47e6833114599f9de36aa59bbffbc88971b2b85dc6f5d39f7735d87e7baddc59",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is disgusted by the idea of loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a dyed-in-the-wool quarreler, never missing a chance to lash out in verbal hostility"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Greatly moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        }
+    ]
 }

@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/155ce0c195b2c349f96412eb98e82f0c11a9bb78c91bcc32ba71f6432c00c7be.png",
     "dna": "155ce0c195b2c349f96412eb98e82f0c11a9bb78c91bcc32ba71f6432c00c7be",
     "name": "Yuo Seto",
-    "id": 6783
+    "id": 6783,
+    "external_url": "https://waifufaucet.com/waifu/155ce0c195b2c349f96412eb98e82f0c11a9bb78c91bcc32ba71f6432c00c7be",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views cooperation as a low ideal not worthy of any respect"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a strong tendency toward privacy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor spatial senses"
+        }
+    ]
 }

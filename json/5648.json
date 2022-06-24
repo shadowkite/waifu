@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/b43e66878a8e9a4fbb7daad018881f351d8fd99544f44cb298a4cff722598286.png",
     "dna": "b43e66878a8e9a4fbb7daad018881f351d8fd99544f44cb298a4cff722598286",
     "name": "Shiokaze Ayugai",
-    "id": 5648
+    "id": 5648,
+    "external_url": "https://waifufaucet.com/waifu/b43e66878a8e9a4fbb7daad018881f351d8fd99544f44cb298a4cff722598286",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks there is something deeply wrong with people that persevere through adversity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would be deeply satisfied if everyone could live as one in complete harmony"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not have feelings of emotional attachment and has never felt even a moment's connection with another being"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an utterly languid pace of easy living, calm and slow"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Seeks out exciting and adventurous situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

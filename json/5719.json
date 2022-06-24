@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/e894bf2ea4844c624d426057a11ce8e692d6703394eb1697c9e6fa7e97982cc8.png",
     "dna": "e894bf2ea4844c624d426057a11ce8e692d6703394eb1697c9e6fa7e97982cc8",
     "name": "Reiki Ienari",
-    "id": 5719
+    "id": 5719,
+    "external_url": "https://waifufaucet.com/waifu/e894bf2ea4844c624d426057a11ce8e692d6703394eb1697c9e6fa7e97982cc8",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the time taken to master a skill is a horrible waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Great intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

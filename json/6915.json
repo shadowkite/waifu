@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/fb68f1db90140e0263a2c93d2c4f66fca582364d54fd5d540c322e51349726cc.png",
     "dna": "fb68f1db90140e0263a2c93d2c4f66fca582364d54fd5d540c322e51349726cc",
     "name": "Ikumi Hasegawa",
-    "id": 6915
+    "id": 6915,
+    "external_url": "https://waifufaucet.com/waifu/fb68f1db90140e0263a2c93d2c4f66fca582364d54fd5d540c322e51349726cc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep dislike of the natural world"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to strong feelings of lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": ""
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little linguistic ability"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An astonishing knack for music"
+        }
+    ]
 }

@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/5f5da70d46f0c6c7453b66cc55df1b53d7a1186d5069b1c7e59c9560a4fdb19c.png",
     "dna": "5f5da70d46f0c6c7453b66cc55df1b53d7a1186d5069b1c7e59c9560a4fdb19c",
     "name": "Mareka Taniguchi",
-    "id": 7418
+    "id": 7418,
+    "external_url": "https://waifufaucet.com/waifu/5f5da70d46f0c6c7453b66cc55df1b53d7a1186d5069b1c7e59c9560a4fdb19c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frustratingly sloppy and careless with every task she sets to carry out"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A lousy intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor spatial senses"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        }
+    ]
 }

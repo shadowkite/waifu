@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/87bdc25e799fd587d4a1898e360c630e408643c151f0608c434c4c23fe4d99cb.png",
     "dna": "87bdc25e799fd587d4a1898e360c630e408643c151f0608c434c4c23fe4d99cb",
     "name": "Honoka Ienari",
-    "id": 508
+    "id": 508,
+    "external_url": "https://waifufaucet.com/waifu/87bdc25e799fd587d4a1898e360c630e408643c151f0608c434c4c23fe4d99cb",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the idea of fair-dealing foolish and cheats when she finds it profitable"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an incredibly calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Drops any activity at the slightest hint of difficulty or even the suggestion of effort being required"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is driven by a bouncing frenetic energy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

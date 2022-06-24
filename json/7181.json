@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/fc89cf4d95f55f4c358029f4364fbd2aeb8d5d56b7fcc0a7709a96d57d844ad4.png",
     "dna": "fc89cf4d95f55f4c358029f4364fbd2aeb8d5d56b7fcc0a7709a96d57d844ad4",
     "name": "Sumi Ishiyama",
-    "id": 7181
+    "id": 7181,
+    "external_url": "https://waifufaucet.com/waifu/fc89cf4d95f55f4c358029f4364fbd2aeb8d5d56b7fcc0a7709a96d57d844ad4",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that the world should be engaged in perpetual warfare"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very friendly and always tries to say nice things to others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an overinflated sense of self-worth"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't generally think before acting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is obsessed with order and structure in her own life, with everything kept in its proper place"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        }
+    ]
 }

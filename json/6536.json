@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/0a2147ff43df305c4658a2fd8987ab86748052b7033e70f44d32fd4ae4dde86e.png",
     "dna": "0a2147ff43df305c4658a2fd8987ab86748052b7033e70f44d32fd4ae4dde86e",
     "name": "Yu Kurogane",
-    "id": 6536
+    "id": 6536,
+    "external_url": "https://waifufaucet.com/waifu/0a2147ff43df305c4658a2fd8987ab86748052b7033e70f44d32fd4ae4dde86e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees those that attempt to maintain dignified and proper behavior as vain and offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the time taken to master a skill is a horrible waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Becomes completely helpless in stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a strong tendency toward privacy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Seeks out exciting and adventurous situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very little patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

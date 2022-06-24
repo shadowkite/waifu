@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/4b54df914490d239ceb1d42827c926898cf8a12e003cfd0ac9a5cde21faed598.png",
     "dna": "4b54df914490d239ceb1d42827c926898cf8a12e003cfd0ac9a5cde21faed598",
     "name": "Hinari Takagawa",
-    "id": 535
+    "id": 535,
+    "external_url": "https://waifufaucet.com/waifu/4b54df914490d239ceb1d42827c926898cf8a12e003cfd0ac9a5cde21faed598",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Feels that those who attempt to conceal their emotions are vain and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is greatly disturbed by quiet and a peaceful existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Truly values merrymaking and parties"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

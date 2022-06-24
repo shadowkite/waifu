@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/33bc4f495ef4d406f4a2b898524744fcf4e34bb32f63b384cd142440a11f60ea.png",
     "dna": "33bc4f495ef4d406f4a2b898524744fcf4e34bb32f63b384cd142440a11f60ea",
     "name": "Tao Aida",
-    "id": 6000
+    "id": 6000,
+    "external_url": "https://waifufaucet.com/waifu/33bc4f495ef4d406f4a2b898524744fcf4e34bb32f63b384cd142440a11f60ea",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views cooperation as a low ideal not worthy of any respect"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that those that take leisure time are evil and finds the whole idea disgusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not careful with resources when working on projects and often spends unnecessary effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very comfortable around others that are different from her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        }
+    ]
 }

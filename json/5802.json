@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/bcc7f2776557d4f3d5d344da110ac28a48817c543438d42ca19ebe0f46cf6d9a.png",
     "dna": "bcc7f2776557d4f3d5d344da110ac28a48817c543438d42ca19ebe0f46cf6d9a",
     "name": "Nattsu Kouno",
-    "id": 5802
+    "id": 5802,
+    "external_url": "https://waifufaucet.com/waifu/bcc7f2776557d4f3d5d344da110ac28a48817c543438d42ca19ebe0f46cf6d9a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds sacrifice to be the height of folly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep dislike of the natural world"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never the slightest bit cheerful about anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is utterly humorless"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is vengeful and never forgets or forgives past grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is shameless, absolutely unfazed by the thoughts of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

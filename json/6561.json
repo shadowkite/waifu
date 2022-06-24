@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/ee5b18fa511ddfc8e5133443a02d4d80c6f1a52e4a587382e35ebf3d1feb79c1.png",
     "dna": "ee5b18fa511ddfc8e5133443a02d4d80c6f1a52e4a587382e35ebf3d1feb79c1",
     "name": "Yukimi Ooshiro",
-    "id": 6561
+    "id": 6561,
+    "external_url": "https://waifufaucet.com/waifu/ee5b18fa511ddfc8e5133443a02d4d80c6f1a52e4a587382e35ebf3d1feb79c1",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep dislike of the natural world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no ambition whatsoever"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is bashful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not bothered in the slightest by deviations from the norm or even extreme differences in lifestyle or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely oblivious to any conception of neatness and will just leave things strewn about without a care"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        }
+    ]
 }

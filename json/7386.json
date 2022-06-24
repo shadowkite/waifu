@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/cffc98b5914765780db611f1e7d9207e7684267e7d26d3274f8087ad7e0a1e50.png",
     "dna": "cffc98b5914765780db611f1e7d9207e7684267e7d26d3274f8087ad7e0a1e50",
     "name": "Kimu Masuno",
-    "id": 7386
+    "id": 7386,
+    "external_url": "https://waifufaucet.com/waifu/cffc98b5914765780db611f1e7d9207e7684267e7d26d3274f8087ad7e0a1e50",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views decorum as a high ideal and is deeply offended by those that fail to maintain it"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the whole pursuit of art as silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never becomes angry"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to rough-and-tumble brawling, even to the point of starting fights for no reason"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels a strong need to reciprocate any favor done for her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no sense of vengeance or retribution"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Sees others as selfish and conniving"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Horrible intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Next to no empathy"
+        }
+    ]
 }

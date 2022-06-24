@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/437f80ad66af62ffd8b3d0714fc532fa79e5bd32a410640deaa7465ba54fcbf2.png",
     "dna": "437f80ad66af62ffd8b3d0714fc532fa79e5bd32a410640deaa7465ba54fcbf2",
     "name": "Komomo Konae",
-    "id": 978
+    "id": 978,
+    "external_url": "https://waifufaucet.com/waifu/437f80ad66af62ffd8b3d0714fc532fa79e5bd32a410640deaa7465ba54fcbf2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a complete scatterbrain, unable to focus on a single matter for more than a passing moment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is bashful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Uncanny intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

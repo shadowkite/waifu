@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/6d2207d2abd2a8d632fd9b8c95e250436487543bd04e39f195e0ed6711394662.png",
     "dna": "6d2207d2abd2a8d632fd9b8c95e250436487543bd04e39f195e0ed6711394662",
     "name": "Kokomi Oota",
-    "id": 5191
+    "id": 5191,
+    "external_url": "https://waifufaucet.com/waifu/6d2207d2abd2a8d632fd9b8c95e250436487543bd04e39f195e0ed6711394662",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects skill at arms"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives an orderly life, organized and neat"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Indefatigable"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very good feel for social relationships"
+        }
+    ]
 }

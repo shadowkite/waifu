@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/e035b9a6d25822eadd2e33736e1c74fec4d6c93e69812a2f5ffc1a5b30b1a29a.png",
     "dna": "e035b9a6d25822eadd2e33736e1c74fec4d6c93e69812a2f5ffc1a5b30b1a29a",
     "name": "Takami Hidaka",
-    "id": 6614
+    "id": 6614,
+    "external_url": "https://waifufaucet.com/waifu/e035b9a6d25822eadd2e33736e1c74fec4d6c93e69812a2f5ffc1a5b30b1a29a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is completely put off by the idea of friends"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees freedom and independence as completely worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the pursuit of good craftsmanship as a total waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Extremely agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Remarkably flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very clumsy kinesthetic sense"
+        }
+    ]
 }

@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/ebd8966e4efdf4176b5a510a8984c1d1ec99f43ad5621dbe50238d74def4f82d.png",
     "dna": "ebd8966e4efdf4176b5a510a8984c1d1ec99f43ad5621dbe50238d74def4f82d",
     "name": "Tatsumi Kakutama",
-    "id": 8099
+    "id": 8099,
+    "external_url": "https://waifufaucet.com/waifu/ebd8966e4efdf4176b5a510a8984c1d1ec99f43ad5621dbe50238d74def4f82d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        }
+    ]
 }

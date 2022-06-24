@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/30c82fc62e1e29187e6c33ce71c795663b69268434e75debba9cad8d2ed7c59d.png",
     "dna": "30c82fc62e1e29187e6c33ce71c795663b69268434e75debba9cad8d2ed7c59d",
     "name": "Aka Hiroyuki",
-    "id": 5336
+    "id": 5336,
+    "external_url": "https://waifufaucet.com/waifu/30c82fc62e1e29187e6c33ce71c795663b69268434e75debba9cad8d2ed7c59d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that introspection is valueless and those that waste time in self-examination are deluded fools"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Truly values merrymaking and parties"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a coward, completely overwhelmed by fear when confronted with danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Next to no willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An atrocious spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

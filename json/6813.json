@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/fc98e9f6c22b3646d9bd03b3e35d3f7eb1c9936692cafa8020cbc0406b5965ae.png",
     "dna": "fc98e9f6c22b3646d9bd03b3e35d3f7eb1c9936692cafa8020cbc0406b5965ae",
     "name": "Narika Horigome",
-    "id": 6813
+    "id": 6813,
+    "external_url": "https://waifufaucet.com/waifu/fc98e9f6c22b3646d9bd03b3e35d3f7eb1c9936692cafa8020cbc0406b5965ae",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that the pursuit of the skills of warfare and fighting is a low pursuit indeed"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often sad and dejected"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would never pass up a chance for a good fistfight"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a strong tendency toward privacy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        }
+    ]
 }

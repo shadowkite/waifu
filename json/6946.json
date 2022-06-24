@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/68a57a011a85934f11dfad8924f611900ec5b105542cb1f4eeca0ff98aa5ecb2.png",
     "dna": "68a57a011a85934f11dfad8924f611900ec5b105542cb1f4eeca0ff98aa5ecb2",
     "name": "Kazuka Nishihara",
-    "id": 6946
+    "id": 6946,
+    "external_url": "https://waifufaucet.com/waifu/68a57a011a85934f11dfad8924f611900ec5b105542cb1f4eeca0ff98aa5ecb2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects individuals that persevere through their trials and labors"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is offended by leisure time and leisurely living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very greedy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great affinity for language"
+        }
+    ]
 }

@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/60b9012e1a94b83d56aeb132a18930cdda62b274858847bc26420b408950e820.png",
     "dna": "60b9012e1a94b83d56aeb132a18930cdda62b274858847bc26420b408950e820",
     "name": "Taeko Matsumoto",
-    "id": 6164
+    "id": 6164,
+    "external_url": "https://waifufaucet.com/waifu/60b9012e1a94b83d56aeb132a18930cdda62b274858847bc26420b408950e820",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the denial of impulses as a vain and foolish pursuit"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Really respects those that take the time to master a skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to strong feelings of jealousy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no confidence at all in her talent and abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "No patience at all"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

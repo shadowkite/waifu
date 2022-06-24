@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/1e1642c6a142d70e7c42ca13eb81dffbac7cdfadaccaf74427f11c4123a40935.png",
     "dna": "1e1642c6a142d70e7c42ca13eb81dffbac7cdfadaccaf74427f11c4123a40935",
     "name": "Kimiko Ii",
-    "id": 8194
+    "id": 8194,
+    "external_url": "https://waifufaucet.com/waifu/1e1642c6a142d70e7c42ca13eb81dffbac7cdfadaccaf74427f11c4123a40935",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees romance as one of the highest ideals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An atrocious spatial sense"
+        }
+    ]
 }

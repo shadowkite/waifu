@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/0c7c0c25e7ba2c32ce80259dd592c202f896e2f069281a3f10d4befce9285bab.png",
     "dna": "0c7c0c25e7ba2c32ce80259dd592c202f896e2f069281a3f10d4befce9285bab",
     "name": "Moyu Masuzoe",
-    "id": 658
+    "id": 658,
+    "external_url": "https://waifufaucet.com/waifu/0c7c0c25e7ba2c32ce80259dd592c202f896e2f069281a3f10d4befce9285bab",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very good feel for social relationships"
+        }
+    ]
 }

@@ -2,5 +2,120 @@
     "image": "https://icons.waifufaucet.com/original/f5218a74a19116780c8ecb49334f71ff39cda4ccf422017a7b2ea7f9323e5704.png",
     "dna": "f5218a74a19116780c8ecb49334f71ff39cda4ccf422017a7b2ea7f9323e5704",
     "name": "Ushio Shiratori",
-    "id": 9823
+    "id": 9823,
+    "external_url": "https://waifufaucet.com/waifu/f5218a74a19116780c8ecb49334f71ff39cda4ccf422017a7b2ea7f9323e5704",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds moderation and self-control to be very important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds nature to be of greater value than most aspects of civilization"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very polite and observes appropriate rules of decorum when possible"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Difficulty with words and language"
+        }
+    ]
 }

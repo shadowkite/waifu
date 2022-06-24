@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/4b168812aa8302d052200499f7f8d4b0c5e120c8adfacb2251968b411fb7e3a8.png",
     "dna": "4b168812aa8302d052200499f7f8d4b0c5e120c8adfacb2251968b411fb7e3a8",
     "name": "Kotono Kaneko",
-    "id": 4857
+    "id": 4857,
+    "external_url": "https://waifufaucet.com/waifu/4b168812aa8302d052200499f7f8d4b0c5e120c8adfacb2251968b411fb7e3a8",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects those that observe decorum and maintain their dignity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views competition as a crucial driving force in the world"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not careful with resources when working on projects and often spends unnecessary effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is swayed by emotional appeals"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Absolutely inexhaustible"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A lack of understanding of social relationships"
+        }
+    ]
 }

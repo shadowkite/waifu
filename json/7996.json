@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/1124bf2cc823c7e544d4ec8436d7dec97e79d7690e0eb1c38ee1af6e6538fd42.png",
     "dna": "1124bf2cc823c7e544d4ec8436d7dec97e79d7690e0eb1c38ee1af6e6538fd42",
     "name": "Kazuha Sakiyurai",
-    "id": 7996
+    "id": 7996,
+    "external_url": "https://waifufaucet.com/waifu/1124bf2cc823c7e544d4ec8436d7dec97e79d7690e0eb1c38ee1af6e6538fd42",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees those that attempt to maintain dignified and proper behavior as vain and offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is offended by leisure time and leisurely living"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is always tense and jittery"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cuts any corners possible when working on a project, regardless of the consequences, rather than wasting effort or resources"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is an optimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Greatly moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An atrocious spatial sense"
+        }
+    ]
 }

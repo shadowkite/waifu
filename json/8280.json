@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/38af6baa2260a41581923579b7b3ab1c70d6d2de9b94c0fd0931c0e4a87bfc76.png",
     "dna": "38af6baa2260a41581923579b7b3ab1c70d6d2de9b94c0fd0931c0e4a87bfc76",
     "name": "Yutsuki Nagumo",
-    "id": 8280
+    "id": 8280,
+    "external_url": "https://waifufaucet.com/waifu/38af6baa2260a41581923579b7b3ab1c70d6d2de9b94c0fd0931c0e4a87bfc76",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees no value in holding back complaints and concealing emotions"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is greatly disturbed by quiet and a peaceful existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds a chaotic mess preferable to the boredom of harmonious living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

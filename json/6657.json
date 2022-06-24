@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/ab1245e18d379348057ffe889e5132cff7f8a95edace03334d9558f7916f08b8.png",
     "dna": "ab1245e18d379348057ffe889e5132cff7f8a95edace03334d9558f7916f08b8",
     "name": "Asara Chino",
-    "id": 6657
+    "id": 6657,
+    "external_url": "https://waifufaucet.com/waifu/ab1245e18d379348057ffe889e5132cff7f8a95edace03334d9558f7916f08b8",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that honesty is a high ideal"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the idea of fair-dealing foolish and cheats when she finds it profitable"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cracks easily under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frustratingly sloppy and careless with every task she sets to carry out"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never acts without prolonged deliberation, even to her own detriment and the harm of those around her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Really slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        }
+    ]
 }

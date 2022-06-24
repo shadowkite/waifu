@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/f5b702303043dce44fe4cc582c53cea1f0cb0a0c5668f02d1e1d21ff87f8967b.png",
     "dna": "f5b702303043dce44fe4cc582c53cea1f0cb0a0c5668f02d1e1d21ff87f8967b",
     "name": "Kimiko Kate",
-    "id": 970
+    "id": 970,
+    "external_url": "https://waifufaucet.com/waifu/f5b702303043dce44fe4cc582c53cea1f0cb0a0c5668f02d1e1d21ff87f8967b",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees lying as an important means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very agile"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        }
+    ]
 }

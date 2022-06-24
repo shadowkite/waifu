@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/69216dbd62154f1f8900500057ba1de18f810de8c15d10e720178bd4ec1727cc.png",
     "dna": "69216dbd62154f1f8900500057ba1de18f810de8c15d10e720178bd4ec1727cc",
     "name": "Mitsuno Tsukada",
-    "id": 7327
+    "id": 7327,
+    "external_url": "https://waifufaucet.com/waifu/69216dbd62154f1f8900500057ba1de18f810de8c15d10e720178bd4ec1727cc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that introspection is valueless and those that waste time in self-examination are deluded fools"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

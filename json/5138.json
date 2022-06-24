@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/e9c8344788cee9751d32e970555765d0cab3e48cf6b73c2bcb39ce5897b2f67d.png",
     "dna": "e9c8344788cee9751d32e970555765d0cab3e48cf6b73c2bcb39ce5897b2f67d",
     "name": "Hiyu Nakatoni",
-    "id": 5138
+    "id": 5138,
+    "external_url": "https://waifufaucet.com/waifu/e9c8344788cee9751d32e970555765d0cab3e48cf6b73c2bcb39ce5897b2f67d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is in a constant state of internal rage"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Incredibly quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        }
+    ]
 }

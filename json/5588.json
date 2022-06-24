@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/2b8dcac3adeca24d8e5b0695d0df72cb3818733a76921737c51f316606f1c1cd.png",
     "dna": "2b8dcac3adeca24d8e5b0695d0df72cb3818733a76921737c51f316606f1c1cd",
     "name": "Yuni Fujino",
-    "id": 5588
+    "id": 5588,
+    "external_url": "https://waifufaucet.com/waifu/2b8dcac3adeca24d8e5b0695d0df72cb3818733a76921737c51f316606f1c1cd",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply values introspection"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very ambitious, always looking for a way to better her situation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very bad sense of empathy"
+        }
+    ]
 }

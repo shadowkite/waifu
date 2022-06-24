@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/830f22c6108731a15f58ab05e052bf63852f61a01120b7b63e46019960260034.png",
     "dna": "830f22c6108731a15f58ab05e052bf63852f61a01120b7b63e46019960260034",
     "name": "Mia Watanabe",
-    "id": 9022
+    "id": 9022,
+    "external_url": "https://waifufaucet.com/waifu/830f22c6108731a15f58ab05e052bf63852f61a01120b7b63e46019960260034",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has great respect for fairness"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks romance is very important in life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no confidence at all in her talent and abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never moved by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely oblivious to any conception of neatness and will just leave things strewn about without a care"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

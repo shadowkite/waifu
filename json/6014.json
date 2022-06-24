@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/c89e6a54201e8980c1daafe7600d812c83c52c4c0f60a7bbb20ccdd07c098866.png",
     "dna": "c89e6a54201e8980c1daafe7600d812c83c52c4c0f60a7bbb20ccdd07c098866",
     "name": "Mion Kimio",
-    "id": 6014
+    "id": 6014,
+    "external_url": "https://waifufaucet.com/waifu/c89e6a54201e8980c1daafe7600d812c83c52c4c0f60a7bbb20ccdd07c098866",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees those that attempt to maintain dignified and proper behavior as vain and offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels helping others is an imposition on her time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

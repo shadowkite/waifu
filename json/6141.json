@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/346e389be07ee626b9d07e42be5772fd246c0477af5b38acd95055ec3d45f182.png",
     "dna": "346e389be07ee626b9d07e42be5772fd246c0477af5b38acd95055ec3d45f182",
     "name": "Arie Kitagawa",
-    "id": 6141
+    "id": 6141,
+    "external_url": "https://waifufaucet.com/waifu/346e389be07ee626b9d07e42be5772fd246c0477af5b38acd95055ec3d45f182",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is offended by leisure time and leisurely living"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very greedy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

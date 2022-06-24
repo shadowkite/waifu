@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/a4670e41178dab9bd0f9fdb8b44096d85a364636261d80e61e48ab414d26e9b3.png",
     "dna": "a4670e41178dab9bd0f9fdb8b44096d85a364636261d80e61e48ab414d26e9b3",
     "name": "Yusuke Nakata",
-    "id": 6996
+    "id": 6996,
+    "external_url": "https://waifufaucet.com/waifu/a4670e41178dab9bd0f9fdb8b44096d85a364636261d80e61e48ab414d26e9b3",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives an orderly life, organized and neat"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is concerned only with matters practical to the situation at hand, with absolutely no inclination toward abstract discussion"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        }
+    ]
 }

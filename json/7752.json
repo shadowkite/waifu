@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/fc4f0c276cd8144435c51f3c09176206bcfc7bb946bab87f292490464ec1cf5c.png",
     "dna": "fc4f0c276cd8144435c51f3c09176206bcfc7bb946bab87f292490464ec1cf5c",
     "name": "Nonno Shimomura",
-    "id": 7752
+    "id": 7752,
+    "external_url": "https://waifufaucet.com/waifu/fc4f0c276cd8144435c51f3c09176206bcfc7bb946bab87f292490464ec1cf5c",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        }
+    ]
 }

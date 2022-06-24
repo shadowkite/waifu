@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/351b5f59914bd3a95f33c21766215f170e4b9e936399c961db70fe4ffcadde8d.png",
     "dna": "351b5f59914bd3a95f33c21766215f170e4b9e936399c961db70fe4ffcadde8d",
     "name": "Hozue Tansho",
-    "id": 8353
+    "id": 8353,
+    "external_url": "https://waifufaucet.com/waifu/351b5f59914bd3a95f33c21766215f170e4b9e936399c961db70fe4ffcadde8d",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The absolute inability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very bad sense of empathy"
+        }
+    ]
 }

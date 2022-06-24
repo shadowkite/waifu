@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/e0f34a04187d588f1cc0d9ced19699ec627c3ab5fdcfaff0dbc76a1a6a3688c4.png",
     "dna": "e0f34a04187d588f1cc0d9ced19699ec627c3ab5fdcfaff0dbc76a1a6a3688c4",
     "name": "Meyu Shunji",
-    "id": 7043
+    "id": 7043,
+    "external_url": "https://waifufaucet.com/waifu/e0f34a04187d588f1cc0d9ced19699ec627c3ab5fdcfaff0dbc76a1a6a3688c4",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees the whole pursuit of art as silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds moderation and self-control to be very important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds sacrifice to be one of the highest ideals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't generally think before acting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Meager creativity"
+        }
+    ]
 }

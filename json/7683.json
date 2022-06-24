@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/3211113f7f983103ca3e9a8520b9c31e864ec7367cb0c34c291eaa6bf348d7d2.png",
     "dna": "3211113f7f983103ca3e9a8520b9c31e864ec7367cb0c34c291eaa6bf348d7d2",
     "name": "Suzune Asanuma",
-    "id": 7683
+    "id": 7683,
+    "external_url": "https://waifufaucet.com/waifu/3211113f7f983103ca3e9a8520b9c31e864ec7367cb0c34c291eaa6bf348d7d2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Lacks any respect for family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds herself somewhat disgusted with eloquent speakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Strongly believes that a peaceful and ordered society without dissent is best"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely unmoved by art or the beauty of nature"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very strong"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A really bad memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

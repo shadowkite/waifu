@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/1a134d5a18ec20e8e3ee4882cf2ec9f40bbacf3ca1bef776043b8ec207cd5e80.png",
     "dna": "1a134d5a18ec20e8e3ee4882cf2ec9f40bbacf3ca1bef776043b8ec207cd5e80",
     "name": "Hadzuki Ayabe",
-    "id": 6198
+    "id": 6198,
+    "external_url": "https://waifufaucet.com/waifu/1a134d5a18ec20e8e3ee4882cf2ec9f40bbacf3ca1bef776043b8ec207cd5e80",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has great respect for fairness"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels hatred toward anyone or anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels strong urges and seeks short-term rewards"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a strong tendency toward privacy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        }
+    ]
 }

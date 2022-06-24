@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/a78d71beeb3c14fb1e26a6bd781c26d7c2bfec575f574a6e9dd0f88b5bdea13f.png",
     "dna": "a78d71beeb3c14fb1e26a6bd781c26d7c2bfec575f574a6e9dd0f88b5bdea13f",
     "name": "Yukari Toru",
-    "id": 9029
+    "id": 9029,
+    "external_url": "https://waifufaucet.com/waifu/a78d71beeb3c14fb1e26a6bd781c26d7c2bfec575f574a6e9dd0f88b5bdea13f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Strongly believes that a peaceful and ordered society without dissent is best"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never the slightest bit cheerful about anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is impervious to the effects of stress"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not feel the slightest need to reciprocate favors that others do for her, no matter how major the help or how much she needed it"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Hates vows, obligations, promises and other binding elements that could restrict her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The ability to focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager ability with social relationships"
+        }
+    ]
 }

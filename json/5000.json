@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/872f9ce8808f9550f32901e7068ed262b2afd28a44429417277f86b76ad1dd83.png",
     "dna": "872f9ce8808f9550f32901e7068ed262b2afd28a44429417277f86b76ad1dd83",
     "name": "Yurika Siagyo",
-    "id": 5000
+    "id": 5000,
+    "external_url": "https://waifufaucet.com/waifu/872f9ce8808f9550f32901e7068ed262b2afd28a44429417277f86b76ad1dd83",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects the shrewd and guileful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects those that observe decorum and maintain their dignity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly respects artists and their works"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Strongly values tranquility and quiet"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks the quest for knowledge is a delusional fantasy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds the humor in most situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys being in crowds"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an overbearing personality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An absolute inability to understand social relationships"
+        }
+    ]
 }

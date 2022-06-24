@@ -2,5 +2,112 @@
     "image": "https://icons.waifufaucet.com/original/b796f2d44353caa522c474ab5803f66694780069d015be6a6e2af3e85ad08d2e.png",
     "dna": "b796f2d44353caa522c474ab5803f66694780069d015be6a6e2af3e85ad08d2e",
     "name": "Asagi Obinata",
-    "id": 5123
+    "id": 5123,
+    "external_url": "https://waifufaucet.com/waifu/b796f2d44353caa522c474ab5803f66694780069d015be6a6e2af3e85ad08d2e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes friendship is a key to the ideal life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects eloquent speakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views decorum as a high ideal and is deeply offended by those that fail to maintain it"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that the time taken to master a skill is a horrible waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the notion that one would persevere through adversity completely abhorrent"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes obligations and will try to avoid being bound by them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great musical sense"
+        }
+    ]
 }

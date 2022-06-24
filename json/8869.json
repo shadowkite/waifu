@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/221e65cee9781bb871fe334b20f4d499e81ca72ae65fdc71acf23a298db764ba.png",
     "dna": "221e65cee9781bb871fe334b20f4d499e81ca72ae65fdc71acf23a298db764ba",
     "name": "Miyano Mizutani",
-    "id": 8869
+    "id": 8869,
+    "external_url": "https://waifufaucet.com/waifu/221e65cee9781bb871fe334b20f4d499e81ca72ae65fdc71acf23a298db764ba",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that artful speech and eloquent expression are of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that perseverance is one of the greatest qualities somebody can have"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep dislike of the natural world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incredibly brave in the face of looming danger, perhaps a bit foolhardy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite ambitious"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally finds herself quite hopeful about the future"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is bashful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never moved by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to tire"
+        }
+    ]
 }

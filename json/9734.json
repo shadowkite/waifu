@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/cab7c5acd8357133ed770b3688b32b6b6294c631eddc48a5723c1f6b59def705.png",
     "dna": "cab7c5acd8357133ed770b3688b32b6b6294c631eddc48a5723c1f6b59def705",
     "name": "Fuyuka Kitabatake",
-    "id": 9734
+    "id": 9734,
+    "external_url": "https://waifufaucet.com/waifu/cab7c5acd8357133ed770b3688b32b6b6294c631eddc48a5723c1f6b59def705",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has the highest regard for loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very weak"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great feel for the surrounding space"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

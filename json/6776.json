@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/2e9a543c88591e44b84e29688ff4e9cd83711fa9d4fe2dd1fd26653f154217bc.png",
     "dna": "2e9a543c88591e44b84e29688ff4e9cd83711fa9d4fe2dd1fd26653f154217bc",
     "name": "Mamiko Eto",
-    "id": 6776
+    "id": 6776,
+    "external_url": "https://waifufaucet.com/waifu/2e9a543c88591e44b84e29688ff4e9cd83711fa9d4fe2dd1fd26653f154217bc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a coward, completely overwhelmed by fear when confronted with danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very ambitious, always looking for a way to better her situation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

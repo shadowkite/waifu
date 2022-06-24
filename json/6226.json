@@ -2,5 +2,52 @@
     "image": "https://icons.waifufaucet.com/original/b82e78aaf6fd06a853f0eba7087b3244a6a2516e3751cae3af5621226667a06a.png",
     "dna": "b82e78aaf6fd06a853f0eba7087b3244a6a2516e3751cae3af5621226667a06a",
     "name": "Yumino Sugahara",
-    "id": 6226
+    "id": 6226,
+    "external_url": "https://waifufaucet.com/waifu/b82e78aaf6fd06a853f0eba7087b3244a6a2516e3751cae3af5621226667a06a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is bashful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        }
+    ]
 }

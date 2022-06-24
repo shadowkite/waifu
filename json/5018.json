@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/7033343f412485dea72099899fca4f8ef871920dc9e7eae427fdcba689ee4236.png",
     "dna": "7033343f412485dea72099899fca4f8ef871920dc9e7eae427fdcba689ee4236",
     "name": "Hikari Shimedzu",
-    "id": 5018
+    "id": 5018,
+    "external_url": "https://waifufaucet.com/waifu/7033343f412485dea72099899fca4f8ef871920dc9e7eae427fdcba689ee4236",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds well-laid plans and shrewd deceptions in the highest regard"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Would have the world operate in complete harmony without the least bit of strife or disorder"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely convinced of her own worthlessness"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Despairs of anything positive happening in the future and lives without feelings of hope"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

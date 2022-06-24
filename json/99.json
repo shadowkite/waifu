@@ -2,5 +2,112 @@
     "image": "https://icons.waifufaucet.com/original/18bfca59d88e902cafaf2d070ae707b8590ca1c127371a9b76a1ef9991b90afd.png",
     "dna": "18bfca59d88e902cafaf2d070ae707b8590ca1c127371a9b76a1ef9991b90afd",
     "name": "Miruka Matsuoka",
-    "id": 99
+    "id": 99,
+    "external_url": "https://waifufaucet.com/waifu/18bfca59d88e902cafaf2d070ae707b8590ca1c127371a9b76a1ef9991b90afd",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disdains the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Greatly prizes loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is completely put off by the idea of friends"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Holds fairness as one of the highest ideals and despises cheating of any kind"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Treasures independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values a harmonious existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that little is better in life than a good party"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Really poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

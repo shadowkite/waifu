@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/60a71133205c7d99bb302a5d09a60d188902544140196f8c6bfce91f64dcd3aa.png",
     "dna": "60a71133205c7d99bb302a5d09a60d188902544140196f8c6bfce91f64dcd3aa",
     "name": "Yuuko Kawamura",
-    "id": 7372
+    "id": 7372,
+    "external_url": "https://waifufaucet.com/waifu/60a71133205c7d99bb302a5d09a60d188902544140196f8c6bfce91f64dcd3aa",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the ideas of independence and freedom somewhat foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often nervous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a strong tendency toward privacy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely oblivious to any conception of neatness and will just leave things strewn about without a care"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never fails to seek out the most stressful and even dangerous situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A stunning lack of analytical ability"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great feel for social relationships"
+        }
+    ]
 }

@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/5d449d38f522b204e9e4f05947819b201a69e2c48bb38928e29b3ba7acff1f83.png",
     "dna": "5d449d38f522b204e9e4f05947819b201a69e2c48bb38928e29b3ba7acff1f83",
     "name": "Yoriko Kotoku",
-    "id": 83
+    "id": 83,
+    "external_url": "https://waifufaucet.com/waifu/5d449d38f522b204e9e4f05947819b201a69e2c48bb38928e29b3ba7acff1f83",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds sacrifice to be one of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep respect for animals, plants and the natural world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Accepts favors without developing a sense of obligation, preferring to act as the current situation demands"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no sense of vengeance or retribution"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        }
+    ]
 }

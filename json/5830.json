@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/75786ea56898fb2fc5597fea7f18573564268d4ad9b7256e6cab3315c5ec1faa.png",
     "dna": "75786ea56898fb2fc5597fea7f18573564268d4ad9b7256e6cab3315c5ec1faa",
     "name": "Yume Yamanaka",
-    "id": 5830
+    "id": 5830,
+    "external_url": "https://waifufaucet.com/waifu/75786ea56898fb2fc5597fea7f18573564268d4ad9b7256e6cab3315c5ec1faa",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees working hard as a foolish waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        }
+    ]
 }

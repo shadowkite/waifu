@@ -2,5 +2,104 @@
     "image": "https://icons.waifufaucet.com/original/0d98766f5b0143029a662cb5acfa2a3a2db52d5c6bbf0fe05e69653a47cbe5cd.png",
     "dna": "0d98766f5b0143029a662cb5acfa2a3a2db52d5c6bbf0fe05e69653a47cbe5cd",
     "name": "Kyara Wakai",
-    "id": 6562
+    "id": 6562,
+    "external_url": "https://waifufaucet.com/waifu/0d98766f5b0143029a662cb5acfa2a3a2db52d5c6bbf0fe05e69653a47cbe5cd",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that engage in trade and commerce to be fairly disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees romance as one of the highest ideals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is never the slightest bit cheerful about anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a complete scatterbrain, unable to focus on a single matter for more than a passing moment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to keep her things orderly"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shortage of patience"
+        }
+    ]
 }

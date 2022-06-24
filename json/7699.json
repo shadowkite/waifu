@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/786f8361f03de6f0abc758c88f33bf48fa23aea6f0960c8089803ebd7b20f8cd.png",
     "dna": "786f8361f03de6f0abc758c88f33bf48fa23aea6f0960c8089803ebd7b20f8cd",
     "name": "Kai Morri",
-    "id": 7699
+    "id": 7699,
+    "external_url": "https://waifufaucet.com/waifu/786f8361f03de6f0abc758c88f33bf48fa23aea6f0960c8089803ebd7b20f8cd",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a deep dislike of the natural world"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to rough-and-tumble brawling, even to the point of starting fights for no reason"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Good creativity"
+        }
+    ]
 }

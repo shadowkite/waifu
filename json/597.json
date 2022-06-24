@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/8ab8289504238d30aa02ac964be26b50fb8c57f725f86aaec4f194f8e67c5012.png",
     "dna": "8ab8289504238d30aa02ac964be26b50fb8c57f725f86aaec4f194f8e67c5012",
     "name": "Suika Muruyama",
-    "id": 597
+    "id": 597,
+    "external_url": "https://waifufaucet.com/waifu/8ab8289504238d30aa02ac964be26b50fb8c57f725f86aaec4f194f8e67c5012",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Feels that those who attempt to conceal their emotions are vain and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that engage in trade and commerce to be fairly disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very easily falls into love and develops positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds a chaotic mess preferable to the boredom of harmonious living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an utterly languid pace of easy living, calm and slow"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Strongly prefers discussions of ideas and abstract concepts over handling specific practical issues"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

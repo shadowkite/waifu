@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/1b7b4d34f60728f882ee160ce89feca41290346f4c3ac6b725cc1c7cea76357e.png",
     "dna": "1b7b4d34f60728f882ee160ce89feca41290346f4c3ac6b725cc1c7cea76357e",
     "name": "Itono Suge",
-    "id": 9678
+    "id": 9678,
+    "external_url": "https://waifufaucet.com/waifu/1b7b4d34f60728f882ee160ce89feca41290346f4c3ac6b725cc1c7cea76357e",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks there is something deeply wrong with people that persevere through adversity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Rarely looks on others with lust"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often neglects her own wellbeing, having no interest in material goods"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes receiving advice, preferring to keep her own counsel"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be swayed by the emotions of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely unmoved by art or the beauty of nature"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        }
+    ]
 }

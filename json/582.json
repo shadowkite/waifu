@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/60d377fa5fd0d759f1cfe062a2af7888adb04a4fed8573230e2fb329824b04b3.png",
     "dna": "60d377fa5fd0d759f1cfe062a2af7888adb04a4fed8573230e2fb329824b04b3",
     "name": "Mako Yagi",
-    "id": 582
+    "id": 582,
+    "external_url": "https://waifufaucet.com/waifu/60d377fa5fd0d759f1cfe062a2af7888adb04a4fed8573230e2fb329824b04b3",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees those that attempt to maintain dignified and proper behavior as vain and offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Almost never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very comfortable around others that are different from her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active imagination"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A large deficit of willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Next to no creative talent"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very clumsy kinesthetic sense"
+        }
+    ]
 }

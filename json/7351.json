@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/501945225d9a08079eed81e6c1785de1ae30afbcffd4d4a1f042819db379a188.png",
     "dna": "501945225d9a08079eed81e6c1785de1ae30afbcffd4d4a1f042819db379a188",
     "name": "Yuiri Tamazaki",
-    "id": 7351
+    "id": 7351,
+    "external_url": "https://waifufaucet.com/waifu/501945225d9a08079eed81e6c1785de1ae30afbcffd4d4a1f042819db379a188",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is completely put off by the idea of friends"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the following of tradition foolish and limiting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often sad and dejected"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Strongly prefers discussions of ideas and abstract concepts over handling specific practical issues"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor spatial senses"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        }
+    ]
 }

@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/9c846e4211272c0c3bde146161dfbf973ac596f4e3b75a2683638550db9270c6.png",
     "dna": "9c846e4211272c0c3bde146161dfbf973ac596f4e3b75a2683638550db9270c6",
     "name": "Misako Hayata",
-    "id": 8530
+    "id": 8530,
+    "external_url": "https://waifufaucet.com/waifu/9c846e4211272c0c3bde146161dfbf973ac596f4e3b75a2683638550db9270c6",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Really respects commerce and those that engage in trade"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has no sense of vengeance or retribution"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others very emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        }
+    ]
 }

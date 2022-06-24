@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/a563a54f19e5c29e9157d40f30bbf7168f8ddfb49c5fc74856b1df77b1ffdae8.png",
     "dna": "a563a54f19e5c29e9157d40f30bbf7168f8ddfb49c5fc74856b1df77b1ffdae8",
     "name": "Shizuru Mori",
-    "id": 9756
+    "id": 9756,
+    "external_url": "https://waifufaucet.com/waifu/a563a54f19e5c29e9157d40f30bbf7168f8ddfb49c5fc74856b1df77b1ffdae8",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds the humor in most situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is absorbed in delusions of self-importance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is somewhat scatterbrained"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is gripped by a crippling shyness"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a bit stubborn in changing her mind about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is assertive"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very bad sense of empathy"
+        }
+    ]
 }

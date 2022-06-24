@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/c6c622b34bb681c8166219536fcead616ee8ddfb830999b025398246f1f34420.png",
     "dna": "c6c622b34bb681c8166219536fcead616ee8ddfb830999b025398246f1f34420",
     "name": "Chikoto Doi",
-    "id": 65
+    "id": 65,
+    "external_url": "https://waifufaucet.com/waifu/c6c622b34bb681c8166219536fcead616ee8ddfb830999b025398246f1f34420",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects fair-dealing and fair-play"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds romance distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sometimes cruel"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great affinity for language"
+        }
+    ]
 }

@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/e19c45756b061e073150acfb236024e9378703fb6d4cfc40a9f2df51998f6acf.png",
     "dna": "e19c45756b061e073150acfb236024e9378703fb6d4cfc40a9f2df51998f6acf",
     "name": "Nanaha Kumagae",
-    "id": 6169
+    "id": 6169,
+    "external_url": "https://waifufaucet.com/waifu/e19c45756b061e073150acfb236024e9378703fb6d4cfc40a9f2df51998f6acf",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds eloquence and artful speech off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values leisure time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an incredibly calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a sense of duty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little patience"
+        }
+    ]
 }

@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/0d32d766a9ba1441be0846d580442824ebe8e97e3255c1d58a5ed604394f45d4.png",
     "dna": "0d32d766a9ba1441be0846d580442824ebe8e97e3255c1d58a5ed604394f45d4",
     "name": "Chieri Tsutsui",
-    "id": 668
+    "id": 668,
+    "external_url": "https://waifufaucet.com/waifu/0d32d766a9ba1441be0846d580442824ebe8e97e3255c1d58a5ed604394f45d4",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a negative view of those who exercise power over others"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Can't fathom why anyone would want to live in an orderly and harmonious society"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Desires little for herself in the way of possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cleaves to an austere lifestyle, disdaining even minor immodesties in appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

@@ -2,5 +2,96 @@
     "image": "https://icons.waifufaucet.com/original/92f4fd6de53200e3ee33dce20265a3e17276d461ea15b1987c5175d07bbf3371.png",
     "dna": "92f4fd6de53200e3ee33dce20265a3e17276d461ea15b1987c5175d07bbf3371",
     "name": "Hanae Gakusha",
-    "id": 5396
+    "id": 5396,
+    "external_url": "https://waifufaucet.com/waifu/92f4fd6de53200e3ee33dce20265a3e17276d461ea15b1987c5175d07bbf3371",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Lacks any respect for family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values good craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that the entire concept of sacrifice for others is truly disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees romance as one of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a friendly individual"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely oblivious to any conception of neatness and will just leave things strewn about without a care"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives a fast-paced life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Clumsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A sum of patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        }
+    ]
 }

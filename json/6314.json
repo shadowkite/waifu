@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/f877ea556e80b73e8155bd328d32513429b23353029795f4c883c28d1d508081.png",
     "dna": "f877ea556e80b73e8155bd328d32513429b23353029795f4c883c28d1d508081",
     "name": "Ayuki Hashi",
-    "id": 6314
+    "id": 6314,
+    "external_url": "https://waifufaucet.com/waifu/f877ea556e80b73e8155bd328d32513429b23353029795f4c883c28d1d508081",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Lacks any respect for family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is affronted by the whole notion of maintaining decorum and finds so-called dignified people disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as wasteful and silly"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can be very happy and optimistic"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to be a little wasteful when working on projects"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to consider what others think of her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is made deeply uncomfortable by differences in culture or appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never acts without prolonged deliberation, even to her own detriment and the harm of those around her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Sees others as selfish and conniving"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely unmoved by art or the beauty of nature"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Quite poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Lousy creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A little difficulty with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very clumsy kinesthetic sense"
+        }
+    ]
 }

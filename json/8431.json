@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/a65be8650ec102769a8058f0fa5a810e7f104034f1922bef7cc22c9aebd687be.png",
     "dna": "a65be8650ec102769a8058f0fa5a810e7f104034f1922bef7cc22c9aebd687be",
     "name": "Kazura Karamorita",
-    "id": 8431
+    "id": 8431,
+    "external_url": "https://waifufaucet.com/waifu/a65be8650ec102769a8058f0fa5a810e7f104034f1922bef7cc22c9aebd687be",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Views loyalty unfavorably"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees those that attempt to maintain dignified and proper behavior as vain and offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees cooperation as very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has a great deal of respect for worthy craftsmanship"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks there is something deeply wrong with people that persevere through adversity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to hatreds and often develops negative feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor creativity"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A questionable spatial sense"
+        }
+    ]
 }

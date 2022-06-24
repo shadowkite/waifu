@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/8ee42de4a6a55482c110895787bdd2ba4ed23a4c1dd9d61514358ab573a2756f.png",
     "dna": "8ee42de4a6a55482c110895787bdd2ba4ed23a4c1dd9d61514358ab573a2756f",
     "name": "Izuho Wakai",
-    "id": 9266
+    "id": 9266,
+    "external_url": "https://waifufaucet.com/waifu/8ee42de4a6a55482c110895787bdd2ba4ed23a4c1dd9d61514358ab573a2756f",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Lacks any respect for family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds friendship burdensome"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the idea of fair-dealing foolish and cheats when she finds it profitable"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that the pursuit of the skills of warfare and fighting is a low pursuit indeed"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can easily fall in love or develop positive sentiments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to form negative views about things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Always acts with mercy and compassion at the forefront of her considerations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is driven by a bouncing frenetic energy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Seeks out exciting and adventurous situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An astonishing memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shockingly profound feel for social relationships"
+        }
+    ]
 }

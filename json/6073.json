@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/3b58932cdfb18bf59993202ca338cdb12580bb905d22d81733aa36d7d5d1bc91.png",
     "dna": "3b58932cdfb18bf59993202ca338cdb12580bb905d22d81733aa36d7d5d1bc91",
     "name": "Sakue Kotoku",
-    "id": 6073
+    "id": 6073,
+    "external_url": "https://waifufaucet.com/waifu/3b58932cdfb18bf59993202ca338cdb12580bb905d22d81733aa36d7d5d1bc91",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values sacrifice"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks romance is very important in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presupposes success in any venture requiring her skills with what could be called blind overconfidence"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Could not care less about her appearance, talents or other personal vanities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is shameless, absolutely unfazed by the thoughts of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is buffeted by others' emotions and can't help but to respond to them"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely tries to assert herself in conversation"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very rarely sick"
+        }
+    ]
 }

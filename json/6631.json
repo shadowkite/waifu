@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/fdb892423ca077d8db0437327e06fafee25bf05ec7eaf0ea7cd600bbaa8337d5.png",
     "dna": "fdb892423ca077d8db0437327e06fafee25bf05ec7eaf0ea7cd600bbaa8337d5",
     "name": "Hitomo Okamura",
-    "id": 6631
+    "id": 6631,
+    "external_url": "https://waifufaucet.com/waifu/fdb892423ca077d8db0437327e06fafee25bf05ec7eaf0ea7cd600bbaa8337d5",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects power"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that deny their impulses somewhat stiff"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Prefers a noisy, bustling life to boring days without activity"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that peace is always preferable to war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an active sense of humor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Sees others as selfish and conniving"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An atrocious spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A meager kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An ability to read emotions fairly well"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

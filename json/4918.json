@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/f7b734274bf9f52e6b090275a04d1577727fcfa5b304a5366f0ac3d393e2c673.png",
     "dna": "f7b734274bf9f52e6b090275a04d1577727fcfa5b304a5366f0ac3d393e2c673",
     "name": "Koue Yoneda",
-    "id": 4918
+    "id": 4918,
+    "external_url": "https://waifufaucet.com/waifu/f7b734274bf9f52e6b090275a04d1577727fcfa5b304a5366f0ac3d393e2c673",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't stick with things if even minor difficulties arise"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely convinced of her own worthlessness"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes abstract discussions and would much rather focus on practical examples"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely unmoved by art or the beauty of nature"
+        }
+    ]
 }

@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/736a637917722c1a1e19c687aa7a6b5fc0c0239217f1cb0edae7e11387565e57.png",
     "dna": "736a637917722c1a1e19c687aa7a6b5fc0c0239217f1cb0edae7e11387565e57",
     "name": "Iku Ishii",
-    "id": 9277
+    "id": 9277,
+    "external_url": "https://waifufaucet.com/waifu/736a637917722c1a1e19c687aa7a6b5fc0c0239217f1cb0edae7e11387565e57",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values loyalty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds herself somewhat disgusted with eloquent speakers"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees freedom and independence as completely worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees perseverance in the face of adversity as bull-headed and foolish"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is prone to hatreds and often develops negative feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is confident under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would be deeply satisfied if everyone could live as one in complete harmony"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A very good sense of the position of her own body"
+        }
+    ]
 }

@@ -2,5 +2,84 @@
     "image": "https://icons.waifufaucet.com/original/c355f9a2ca38cc9b1ea8cdd947f5ee68bc29b07c833f2353b2d6e72d8018f8ea.png",
     "dna": "c355f9a2ca38cc9b1ea8cdd947f5ee68bc29b07c833f2353b2d6e72d8018f8ea",
     "name": "Pinku Hagihara",
-    "id": 4872
+    "id": 4872,
+    "external_url": "https://waifufaucet.com/waifu/c355f9a2ca38cc9b1ea8cdd947f5ee68bc29b07c833f2353b2d6e72d8018f8ea",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds introspection to be a waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values tranquility and a peaceful day"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects those that work hard at their labors"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that peace is always preferable to war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has an incredibly calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Only rarely feels strong cravings or urges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad analytical abilities"
+        }
+    ]
 }

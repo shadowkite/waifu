@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/941663e70e3d4a704a0a3f2b35663b96e75a3d0eb2581e273307dca60a8b6bd6.png",
     "dna": "941663e70e3d4a704a0a3f2b35663b96e75a3d0eb2581e273307dca60a8b6bd6",
     "name": "Gen Shintaro",
-    "id": 6991
+    "id": 6991,
+    "external_url": "https://waifufaucet.com/waifu/941663e70e3d4a704a0a3f2b35663b96e75a3d0eb2581e273307dca60a8b6bd6",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of skill mastery off-putting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees competition as reasonably important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects commerce"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very greedy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is greatly pleased by her own looks and accomplishments"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is bashful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Shares intimate details of life without sparing a thought to repercussions or propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Strong"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Willpower"
+        }
+    ]
 }

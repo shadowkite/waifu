@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/8a65d59cea0c0efbbcf242c2f9220136425c6a44e50f83645fe1ad5764a33f1a.png",
     "dna": "8a65d59cea0c0efbbcf242c2f9220136425c6a44e50f83645fe1ad5764a33f1a",
     "name": "Niji Shiomiya",
-    "id": 6378
+    "id": 6378,
+    "external_url": "https://waifufaucet.com/waifu/8a65d59cea0c0efbbcf242c2f9220136425c6a44e50f83645fe1ad5764a33f1a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is greatly disturbed by quiet and a peaceful existence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Can't fathom why anyone would want to live in an orderly and harmonious society"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects those that work hard at their labors"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views competition as a crucial driving force in the world"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds even the abstract idea of romance repellent"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes war is preferable to peace in general"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quick to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would flee even the most necessary battle to avoid any form of physical confrontation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unfriendly and disagreeable"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not driven and rarely feels the need to pursue even a modest success"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is easily moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is curious and eager to learn"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        }
+    ]
 }

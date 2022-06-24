@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/a7bb80f04b0da80c641d41ff79ad0af9a82b3f41a6d46b513abfe3fdbdcca1bc.png",
     "dna": "a7bb80f04b0da80c641d41ff79ad0af9a82b3f41a6d46b513abfe3fdbdcca1bc",
     "name": "Iku Itoh",
-    "id": 6997
+    "id": 6997,
+    "external_url": "https://waifufaucet.com/waifu/a7bb80f04b0da80c641d41ff79ad0af9a82b3f41a6d46b513abfe3fdbdcca1bc",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks working hard is an abject idiocy"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a greedy streak"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds a chaotic mess preferable to the boredom of harmonious living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally respond to emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels helping others is an imposition on her time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Hates vows, obligations, promises and other binding elements that could restrict her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A poor kinesthetic sense"
+        }
+    ]
 }

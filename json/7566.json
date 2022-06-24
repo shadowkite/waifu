@@ -2,5 +2,64 @@
     "image": "https://icons.waifufaucet.com/original/d231b4c9f0d704dd0947e140d354fc14baadf1f3297efd6c18bffbcdc7a8a3a1.png",
     "dna": "d231b4c9f0d704dd0947e140d354fc14baadf1f3297efd6c18bffbcdc7a8a3a1",
     "name": "Chiyumi Suda",
-    "id": 7566
+    "id": 7566,
+    "external_url": "https://waifufaucet.com/waifu/d231b4c9f0d704dd0947e140d354fc14baadf1f3297efd6c18bffbcdc7a8a3a1",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds blind honesty foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is rarely jealous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Takes no pleasure in her talents and appearance"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to present herself boldly, even if it would offend an average sense of modesty"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a perfectionist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms strong emotional bonds with others, at times to her detriment"
+        }
+    ]
 }

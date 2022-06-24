@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/bed92180f4a4ee0e6ccccf0a189f1f2c64e66300e2bf87b0170d4c0ae47bc778.png",
     "dna": "bed92180f4a4ee0e6ccccf0a189f1f2c64e66300e2bf87b0170d4c0ae47bc778",
     "name": "Sumina Miyagawa",
-    "id": 8609
+    "id": 8609,
+    "external_url": "https://waifufaucet.com/waifu/bed92180f4a4ee0e6ccccf0a189f1f2c64e66300e2bf87b0170d4c0ae47bc778",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Strongly values tranquility and quiet"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects perseverance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat put off by trade and commerce"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values nature"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lacks confidence in her abilities"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a relentless drive, completely consumed by ambition"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not a private person and freely shares details of her life"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not readily moved by art or natural beauty"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        }
+    ]
 }

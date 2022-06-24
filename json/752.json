@@ -2,5 +2,76 @@
     "image": "https://icons.waifufaucet.com/original/5acc2f7d1f512b1de2623dce779cf18c1657ebc7ae08e6b2697714a28b3ac8d3.png",
     "dna": "5acc2f7d1f512b1de2623dce779cf18c1657ebc7ae08e6b2697714a28b3ac8d3",
     "name": "Awana Ueno",
-    "id": 752
+    "id": 752,
+    "external_url": "https://waifufaucet.com/waifu/5acc2f7d1f512b1de2623dce779cf18c1657ebc7ae08e6b2697714a28b3ac8d3",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Disregards tradition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Views tranquility as one of the highest ideals"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values martial prowess"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the development of skill"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very slow to anger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a very calm demeanor"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Feels best when everyone gets along without any strife or contention"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has great trouble mastering fear when confronted by danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Presents herself modestly and frowns on any flashy accoutrements"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not generally seek retribution for past wrongs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Easily changes her mind and will generally go with the prevailing view on anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Forms only fleeting and rare emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is sloppy with her living space"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would never under any circumstances speak up or otherwise put forth her point of view in a discussion"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }

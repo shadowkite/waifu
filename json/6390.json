@@ -2,5 +2,88 @@
     "image": "https://icons.waifufaucet.com/original/1032c92bd9cef4b661c2591e51818fd6c7c98521c5bd7673a388f46abf8e44c6.png",
     "dna": "1032c92bd9cef4b661c2591e51818fd6c7c98521c5bd7673a388f46abf8e44c6",
     "name": "Momoka Isaka",
-    "id": 6390
+    "id": 6390,
+    "external_url": "https://waifufaucet.com/waifu/1032c92bd9cef4b661c2591e51818fd6c7c98521c5bd7673a388f46abf8e44c6",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the whole idea of friendship disgusting"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks it is of the utmost importance to present a bold face and never grouse, complain or even show emotion"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never falls in love or develops positive feelings toward anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Very rarely develops negative feelings toward things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never envies others their status, situation or possessions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Thinks she is fairly important in the grand scheme of things"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts impartially and is rarely moved to mercy"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a perfectionist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency toward forming deep emotional bonds with others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Tough"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good kinesthetic sense"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good feel for social relationships"
+        }
+    ]
 }

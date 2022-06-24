@@ -2,5 +2,100 @@
     "image": "https://icons.waifufaucet.com/original/f35bb850bc2bc015e8330d5ec4198e141738dce5d9076cf877f1246410f2b621.png",
     "dna": "f35bb850bc2bc015e8330d5ec4198e141738dce5d9076cf877f1246410f2b621",
     "name": "Madoka Mitsuwa",
-    "id": 9401
+    "id": 9401,
+    "external_url": "https://waifufaucet.com/waifu/f35bb850bc2bc015e8330d5ec4198e141738dce5d9076cf877f1246410f2b621",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees lying as an important means to an end"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds maintaining decorum a silly, fumbling waste of time"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Dislikes cooperation"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Has abandoned any attempt at self-control and finds the whole concept deeply offensive"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds those that develop skill with weapons and fighting distasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes that perseverance is one of the greatest qualities somebody can have"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values knowledge"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cracks easily under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels tempted to overindulge in anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes to brawl"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is stingy with resources on projects and refuses to expend any extra effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is inattentive to detail in her own work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is trusting"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little willpower"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Difficulty with words and language"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good spatial sense"
+        }
+    ]
 }

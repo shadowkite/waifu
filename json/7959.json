@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/c5be82dac932ab312dd10e7a0cf64d1e15b22bf036f92255fabac395642b9af7.png",
     "dna": "c5be82dac932ab312dd10e7a0cf64d1e15b22bf036f92255fabac395642b9af7",
     "name": "Katsuko Takaki",
-    "id": 7959
+    "id": 7959,
+    "external_url": "https://waifufaucet.com/waifu/c5be82dac932ab312dd10e7a0cf64d1e15b22bf036f92255fabac395642b9af7",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Does not respect the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds artwork boring"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply respects those that work hard at their labors"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes the idea of war is utterly repellent and would have peace at all costs"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not enjoy participating in physical confrontations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a coward, completely overwhelmed by fear when confronted with danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a complete scatterbrain, unable to focus on a single matter for more than a passing moment"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can get caught up in internal deliberations when action is necessary"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very bad analytical abilities"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A feel for music"
+        }
+    ]
 }

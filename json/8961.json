@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/867dd54b2b633c90a44b2e8ce6b8fdc70feb2e07b693b06b11c580d64a865880.png",
     "dna": "867dd54b2b633c90a44b2e8ce6b8fdc70feb2e07b693b06b11c580d64a865880",
     "name": "Anzu Tsuchiya",
-    "id": 8961
+    "id": 8961,
+    "external_url": "https://waifufaucet.com/waifu/867dd54b2b633c90a44b2e8ce6b8fdc70feb2e07b693b06b11c580d64a865880",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Deeply dislikes competition"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the pursuit of knowledge to be a waste of effort"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels envious of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is dour as a rule"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't handle stress well"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Occasionally overindulges"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tries to do things correctly each time"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Can sometimes act without deliberation"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Prefers to be alone"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Weak"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A shockingly profound feel for social relationships"
+        }
+    ]
 }

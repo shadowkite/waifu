@@ -2,5 +2,108 @@
     "image": "https://icons.waifufaucet.com/original/7e8abfb4309742215752cb9ca4584cdc37c650cc3f038f350e9ef4dadd375914.png",
     "dna": "7e8abfb4309742215752cb9ca4584cdc37c650cc3f038f350e9ef4dadd375914",
     "name": "Riyuu Suenami",
-    "id": 8429
+    "id": 8429,
+    "external_url": "https://waifufaucet.com/waifu/7e8abfb4309742215752cb9ca4584cdc37c650cc3f038f350e9ef4dadd375914",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Respects the law"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees family as one of the most important things in life"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values honesty"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees guile and cunning as indirect and somewhat worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Considers craftsmanship to be relatively worthless"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds the very idea of competition obscene"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds even the abstract idea of romance repellent"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is not the type to fall in love or even develop positive feelings"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cracks easily under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very stubborn"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a vulgar being who does not care a lick for even the most basic rules of civilized living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to go it alone, without considering the advice of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grateful when others help her out and tries to return favors"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often finds herself changing her mind to agree with somebody else"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Finds helping others emotionally rewarding"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Enjoys the company of others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is moved by art and natural beauty"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A way with words"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy sense for music"
+        }
+    ]
 }

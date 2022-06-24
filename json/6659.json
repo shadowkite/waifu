@@ -2,5 +2,68 @@
     "image": "https://icons.waifufaucet.com/original/6c10ce0dd0f56b4e51e3bcc902688ad8796622d033844381d47c313092e36146.png",
     "dna": "6c10ce0dd0f56b4e51e3bcc902688ad8796622d033844381d47c313092e36146",
     "name": "Haruki Takudo",
-    "id": 6659
+    "id": 6659,
+    "external_url": "https://waifufaucet.com/waifu/6c10ce0dd0f56b4e51e3bcc902688ad8796622d033844381d47c313092e36146",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees artful speech and eloquence as a wasteful form of deliberate deception and treats it as such"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks that introspection is valueless and those that waste time in self-examination are deluded fools"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values hard work"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is brave in the face of imminent danger"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind wearing something special now and again"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Would never under any circumstances speak up or otherwise put forth her point of view in a discussion"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Slow to heal"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Little patience"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great affinity for language"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Poor empathy"
+        }
+    ]
 }

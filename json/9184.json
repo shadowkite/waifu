@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/a18423a021dd7e84a6155a6faf5bb903ebd36443b7c59c8681daaec3cdf64ab3.png",
     "dna": "a18423a021dd7e84a6155a6faf5bb903ebd36443b7c59c8681daaec3cdf64ab3",
     "name": "Makoto Nakano",
-    "id": 9184
+    "id": 9184,
+    "external_url": "https://waifufaucet.com/waifu/a18423a021dd7e84a6155a6faf5bb903ebd36443b7c59c8681daaec3cdf64ab3",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees power over others as something to strive for"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values decorum, dignity and proper behavior"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds merrymaking and partying worthwhile activities"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds nature somewhat disturbing"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels lustful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a low sense of self-esteem"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is frustratingly sloppy and careless with every task she sets to carry out"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Actively avoids exciting or stressful situations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is given to flights of fancy to the point of distraction"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is completely unmoved by art or the beauty of nature"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Agile"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Rarely sick"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "An iffy memory"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "The utter inability to judge others' emotions"
+        }
+    ]
 }

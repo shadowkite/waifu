@@ -2,5 +2,80 @@
     "image": "https://icons.waifufaucet.com/original/3333fb3dbb0f47651b3eba6514592adc347f4f7c57632315652dfb3df6ba817a.png",
     "dna": "3333fb3dbb0f47651b3eba6514592adc347f4f7c57632315652dfb3df6ba817a",
     "name": "Namika Okui",
-    "id": 842
+    "id": 842,
+    "external_url": "https://waifufaucet.com/waifu/3333fb3dbb0f47651b3eba6514592adc347f4f7c57632315652dfb3df6ba817a",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Is put off by family"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Thinks friendship is important"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees introspection as important"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is often cheerful"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Never feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Doesn't mind a little tumult and discord in day-to-day living"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite polite"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Always acts with mercy and compassion at the forefront of her considerations"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Generally acts with a narrow focus on the current activity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very rarely moved by curiosity"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Hates vows, obligations, promises and other binding elements that could restrict her"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Lives at a slow-going and leisurely pace"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is grounded in reality"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Next to no natural musical ability"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A great feel for social relationships"
+        }
+    ]
 }

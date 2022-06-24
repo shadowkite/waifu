@@ -2,5 +2,72 @@
     "image": "https://icons.waifufaucet.com/original/9d18a14da2c64389c2b2b6ffbe8f946d6e6d14d34d34b154efa8914a77fb11a2.png",
     "dna": "9d18a14da2c64389c2b2b6ffbe8f946d6e6d14d34d34b154efa8914a77fb11a2",
     "name": "Kana Mizukawa",
-    "id": 5371
+    "id": 5371,
+    "external_url": "https://waifufaucet.com/waifu/9d18a14da2c64389c2b2b6ffbe8f946d6e6d14d34d34b154efa8914a77fb11a2",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values eloquence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values artwork"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values independence"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes it is important to conceal emotions and refrain from complaining"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values self-control"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees sacrifice as wasteful and foolish"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Values peace over war"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Often feels discouraged"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally quite confident of her abilities when undertaking specific ventures"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends to hang on to grievances"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is incurious and never seeks out knowledge or information to satisfy herself"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very quick to tire"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to heal"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Really susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good intellect"
+        }
+    ]
 }

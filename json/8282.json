@@ -2,5 +2,60 @@
     "image": "https://icons.waifufaucet.com/original/624e9ec532c423ba8985cfe1e10121f1340a3b1f2d9629c02d68b616ed862821.png",
     "dna": "624e9ec532c423ba8985cfe1e10121f1340a3b1f2d9629c02d68b616ed862821",
     "name": "Saito Azuma",
-    "id": 8282
+    "id": 8282,
+    "external_url": "https://waifufaucet.com/waifu/624e9ec532c423ba8985cfe1e10121f1340a3b1f2d9629c02d68b616ed862821",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Values cunning"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Finds leisure time wasteful"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Is somewhat disgusted by romance"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees war as a useful means to an end"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is very impolite and inconsiderate of propriety"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is unable to make decisions without a great deal of input from others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not find most jokes humorous"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Easily changes her mind and will generally go with the prevailing view on anything"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is quite comfortable with others that have a different appearance or culture"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Has a tendency to consider ideas and abstractions over practical applications"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quick to tire"
+        }
+    ]
 }

@@ -2,5 +2,92 @@
     "image": "https://icons.waifufaucet.com/original/3e3943a093320626e674b9e18212dd1bad99a1c0ff587f9c5965dd6e779798d5.png",
     "dna": "3e3943a093320626e674b9e18212dd1bad99a1c0ff587f9c5965dd6e779798d5",
     "name": "Ichina Goto",
-    "id": 9573
+    "id": 9573,
+    "external_url": "https://waifufaucet.com/waifu/3e3943a093320626e674b9e18212dd1bad99a1c0ff587f9c5965dd6e779798d5",
+    "attributes": [
+        {
+            "trait_type": "Beliefs",
+            "value": "Believes the truth is inviolable regardless of the cost"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees life as unfair and doesn't mind it that way"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Doesn't respect a society that has settled into harmony without debate and strife"
+        },
+        {
+            "trait_type": "Beliefs",
+            "value": "Sees merrymaking as a waste"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cracks easily under pressure"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Cuts any corners possible when working on a project, regardless of the consequences, rather than wasting effort or resources"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Relies on the advice of others during decision making"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is pleased by her own appearance and talents"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is a pessimist"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is generally unhindered by the thoughts of others concerning her actions"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Tends not to reveal personal information"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Is swayed by emotional appeals"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Dislikes helping others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Does not trust others"
+        },
+        {
+            "trait_type": "Facets",
+            "value": "Likes a little excitement now and then"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Quite clumsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Very flimsy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Susceptible to disease"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Very good focus"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "Bad intuition"
+        },
+        {
+            "trait_type": "Soul",
+            "value": "A good memory"
+        }
+    ]
 }
